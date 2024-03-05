@@ -768,8 +768,8 @@ Hãy xem xét các ví dụ sau khi xác định xem hai thẻ có chức năng 
     • Rainbow Energy (CES, 151) và Rainbow Energy (TR, 17) không giống nhau về mặt chức năng, vì năng lượng trước đây “đặt [s] bộ đếm sát thương” trong khi năng lượng sau “gây 10 sát thương”—bộ đếm sát thương và sát thương là những cơ chế riêng biệt trong Pokémon TCG và không thể được tham chiếu thay thế cho nhau.
 
 5.4.1.4 Thẻ bị cấm
-Danh sách các thẻ bị cấm trong giải đấu có thể được tìm thấy ở [đây].
-https://www.pokemon.com/us/pokemon-tcg-banned-card-list/
+Danh sách các thẻ bị cấm trong giải đấu có thể được tìm thấy ở đây.
+[https://www.pokemon.com/us/pokemon-tcg-banned-card-list/]
 Kết quả giải đấu và phản hồi của cộng đồng sẽ tiếp tục được phân tích để duy trì một môi trường chơi lành mạnh. Đặc biệt, thể thức Mở rộng (Expanded Format) sẽ được giám sát chặt chẽ vì có rất nhiều thẻ và sự kết hợp tiềm năng có sẵn để sử dụng.
 
 5.4.2 Thể thức không giới hạn (Unlimited Format)
@@ -833,7 +833,7 @@ Các lá bài được đặt vào khu vực chơi từ tay mà không có tác 
 5.6.1 Khu vực chơi
 Các thẻ trong trò chơi nên được quản lý theo cách mà chúng được tổ chức, gọn gàng và dễ dàng cho đối thủ và các trọng tài để phiên dịch. 
 Thẻ được đặt vào khu vực chơi từ tay mà không có tác dụng của thẻ khác, Khả năng, hoặc Hiệu ứng được coi là chơi tại thời điểm người chơi giải phóng thẻ từ tay họ. Nếu một Người chơi không muốn chơi bài, họ không nên đặt nó vào khu vực chơi. Ranh giới của Khu vui chơi được xác định theo hình ảnh.
-[https://raw.githubusercontent.com/rFantic/note/main/Screenshot%202024-03-03%20214723.png?token=GHSAT0AAAAAACPBIJTK5ZQ4WSKQR27WYWHQZPER3SA]
+[https://raw.githubusercontent.com/rFantic/pokemon-tcg-handbook/master/Screenshot%202024-03-03%20214723.png]
 A: Mỗi bộ bài nên được định hướng theo hướng Bắc/Nam, với các cạnh ngắn của các lá bài hướng về phía nhau.
 người chơi. Khe hở của bọc bài phải đối mặt với đối thủ.
 B: Mỗi người chơi chỉ có thể có một đống bài bỏ, tuy nhiên một số lá bài nhất định trong đống bài bỏ có thể được xoay
