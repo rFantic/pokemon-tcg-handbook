@@ -1,0 +1,1259 @@
+1 Cách dùng sổ tay
+    1.1 Nội dung bổ sung
+    1.2 Đề xuất mục và người đọc
+2 Nguyên tắc tham gia cơ bản
+    2.1 Giới thiệu
+    2.2 ID người chơi
+    2.3 Điều kiện tham gia
+    2.4 Kỳ vọng
+    2.5 Định nghĩa vai trò và trách nhiệm
+    2.6 Công bố thông tin giải đấu 
+3 Chính sách giải đấu 
+    3.1 Giới thiệu
+    3.2 Lịch trình giải đấu
+    3.3 Tham gia giải đấu
+    3.4 Tính toàn vẹn của giải đấu
+    3.5 Báo cáo kết quả giải đấu
+    3.6 Các trận đấu được phát trực tiếp
+    3.7 Trao giải
+4 Hoạt động và thông tin cụ thể của giải đấu
+    4.1 Giới thiệu
+    4.2 Phân chia độ tuổi
+    4.3 Yêu cầu của người chơi
+    4.4 Hồ sơ trận đấu và xếp hạng 
+    4.5 Nhận thua, chủ định hòa
+    4.6 Phong cách giải đấu Pokémon
+    4.7 Các cặp đôi
+    4.8 Loại khỏi giải đấu
+5 Quy tắc giải đấu
+    5.1 Giới thiệu 
+    5.2 Tính hợp pháp của thẻ
+    5.3 Tính hợp pháp của bộ bài
+    5.4 Hình thức giải đấu
+    5.5 Hình thức giải phụ
+    5.6 Quản lý khu vực bàn chơi
+    5.7 Xáo bài
+    5.8 Hành động trong trận đấu
+6 Luật thi đấu giải trò chơi điện tử
+7 Vi phạm quy tắc và hình phạt 
+    7.1 Giới thiệu
+    7.2 Các loại hình phạt
+    7.3 Các loại hình phạt
+    7.4 Thay đổi so với các hình phạt được đề xuất
+    7.5 Ra hình phạt
+    7.6 Báo cáo hình phạt 
+    7.7 Xử lý kỷ luật 
+
+1. Cách dùng sổ tay
+Cẩm nang Quy tắc Giải đấu Pokémon nhằm mục đích cung cấp cái nhìn tổng quan toàn diện và kỹ lưỡng về các quy tắc và chính sách hiện có tại Sự kiện Pokémon. 
+Bằng cách tham gia hoặc ở lại Sự kiện Pokémon, tất cả những người tham gia đều đồng ý tuân thủ các quy tắc được nêu trong sổ tay này. Những người không vi phạm có thể bị phạt, bị loại khỏi bất kỳ giải đấu nào mà họ đang tham gia và/hoặc được yêu cầu rời khỏi địa điểm tổ chức sự kiện.
+
+1.1 Nội dung bổ sung
+Cuốn sổ tay này nên được đọc cùng với Tiêu chuẩn ứng xử của Pokémon.
+
+1.2 Đề xuất mục và người đọc
+
+Người đọc                               Phần được đề xuất                                   Số trang
+Giáo sư Pokémon: Trọng tài              Vui lòng đọc và làm quen với toàn bộ tài liệu.      _
+Giáo sư Pokémon:                        2. Nguyên tắc cơ bản về sự tham gia                 4
+Đơn vị tổ chức & Quản trị viên          3. Chính sách giải đấu                              10
+                                        4. Hoạt động và thông tin cụ thể của giải đấu       15
+                                        7. Vi phạm quy tắc và hình phạt                     43
+Người chơi                              2. Nguyên tắc cơ bản về sự tham gia                 4
+                                        3. Chính sách giải đấu                              10
+                                        5. Quy tắc giải đấu trò chơi thẻ giao dịch hoặc     26
+                                        6. Thể lệ giải đấu trò chơi điện tử                 42
+                                        7. Vi phạm quy tắc và hình phạt                     43
+Phụ huynh                               2. Nguyên tắc cơ bản về sự tham gia                 4
+                                        3. Chính sách giải đấu                              10
+                                        7. Vi phạm quy tắc và hình phạt                     43
+Khán giả/Người tham dự                  2. Nguyên tắc cơ bản về sự tham gia                 4
+
+2 Nguyên tắc tham gia cơ bản
+2.1 Giới thiệu
+Mọi người tham dự sự kiện Pokémon, dù với tư cách là người chơi, khán giả hay Giáo sư, đều nên làm quen với thông tin trong phần này. Đặc biệt, các chủ đề sau được đề cập:
+       • Ai được phép tham gia?
+       • Những hành vi và vật phẩm không được phép tại sự kiện Pokémon
+       • Vai trò, trách nhiệm và kỳ vọng của người tham dự sự kiện
+
+2.2 ID người chơi
+Tất cả những ai muốn tham gia vào một Giải đấu Pokémon phải có số ID người chơi riêng. 
+Có thể nhanh chóng và dễ dàng để tạo ID người chơi cá nhân, duy nhất thông qua tài khoản Câu lạc bộ huấn luyện viên Pokémon trên trang web chính thức của Pokémon. 
+Tuy nhiên, những người chơi chưa thực hiện việc này trước khi đến giải đấu có thể được Ban tổ chức chỉ định ID người chơi. 
+Trong trường hợp này, lần tiếp theo người chơi đăng nhập vào tài khoản Câu lạc bộ Huấn luyện viên của mình, họ sẽ nên liên kết tài khoản đó với số ID người chơi mà họ đã được cấp. 
+Sau đó, họ sẽ có thể hưởng lợi từ việc theo dõi việc tham gia các giải đấu cũng như kiếm được các đặc quyền và giải thưởng liên quan.
+Người chơi chỉ được sử dụng một ID người chơi duy nhất. Việc cố ý đăng ký nhiều ID người chơi là vi phạm các điều khoản sử dụng chính thức của trang web Pokémon và mọi ID trùng lặp có thể bị xóa hoặc hợp nhất mà không cần cảnh báo.
+
+2.3 Điều kiện tham gia
+Khả năng tham gia Các giải đấu Pokémon dành cho tất cả những người có số ID người chơi, ngoại trừ các trường hợp ngoại lệ sau.
+2.3.1 Tất cả giải đấu Pokemon
+     • Những người bị đình chỉ hoạt động khỏi Sự kiện Pokémon do Pokémon phát hành Chơi có tổ chức.
+     • Nhân viên giải đấu, bao gồm Ban tổ chức, giám khảo và người ghi điểm.
+              o Điều này bao gồm chủ cửa hàng nơi giải đấu diễn ra bên trong một địa điểm bán lẻ.
+     • Nhân viên hiện tại của The Pokémon Company International, Game Freak Inc., hoặc Creatures Inc.
+              o Điều này bao gồm các nhân viên cũ của bất kỳ công ty nào trong số này, trong vòng 60 ngày kể từ ngày làm việc cuối cùng của họ.
+     • Thành viên gia đình trực hệ của nhân viên The Pokémon Company International.
+     • Nhân viên của các công ty chịu trách nhiệm vận hành hoặc điều phối Chương trình Pokémon ở nước họ.
+     • Những điều được liệt kê ở trên trong phần 2.3.1.
+2.3.2 Giải đấu Pokemon điện tử
+     • Nhân viên hiện tại của Nintendo.
+              o Điều này bao gồm các nhân viên cũ của Nintendo, trong vòng 60 ngày kể từ ngày làm việc cuối cùng của họ.
+     • Các thành viên của chương trình được chọn để đánh giá sản phẩm trò chơi điện tử Pokémon trước ngày phát hành chính thức tại Hoa Kỳ đều bị cấm tham gia Các giải đấu Trò chơi điện tử Pokémon trong 60 ngày sau ngày phát hành chính thức của sản phẩm đó tại Hoa Kỳ.
+              o Trong trường hợp thành viên của chương trình chọn tham gia các giải đấu sau ngày này, họ không được sử dụng bất kỳ sản phẩm trò chơi điện tử nào có được trước ngày phát hành chính thức tại Hoa Kỳ.
+
+2.4 Kỳ vọng
+Những người tham dự tại Các sự kiện Pokémon phải hiểu và tuân thủ các quy tắc được nêu trong tài liệu này cũng như mọi tài liệu đi kèm khác có thể áp dụng cho vai trò của họ.
+
+Tất cả những người tham dự dự kiến sẽ:
+     • Đáp ứng các yêu cầu đăng ký và/hoặc tham gia sự kiện, bao gồm cả việc mua thẻ hoặc huy hiệu khi cần thiết.
+     • Không bị ảnh hưởng bởi rượu và/hoặc các chất làm thay đổi tâm trí khác.
+     • Tránh sử dụng ngôn ngữ không phù hợp và/hoặc thảo luận về các chủ đề mang tính kích động.
+     • Duy trì mức độ vệ sinh cá nhân được xã hội chấp nhận.
+     • Tuân theo sự chỉ đạo của nhân viên sự kiện.
+     • Hãy tôn trọng và lịch sự với tất cả mọi người.
+Nếu việc tuân thủ bất kỳ điều nào ở trên của bất kỳ người tham dự nào bị nghi ngờ thì Ban tổ chức có trách nhiệm xác định xem người tham dự đó có được phép ở lại sự kiện hay không.
+Để biết thêm thông tin về hành vi được chấp nhận tại Các sự kiện Pokémon, vui lòng tham khảo Tiêu chuẩn ứng xử của Pokémon.
+
+2.4.1 Nghiêm cấm
+Điều quan trọng là tất cả người tham gia đều cảm thấy được chào đón và thoải mái trong môi trường của Sự kiện Pokémon. Để hỗ trợ điều này, Pokemon cấm các hành vi sau:
+     • Việc bán hoặc tiêu thụ đồ uống có cồn và/hoặc bất kỳ chất làm thay đổi tâm trí nào.
+     • Đặt cược hoặc đánh bạc dựa trên kết quả của một trò chơi, một phần của trò chơi, trận đấu hoặc số trận đấu.
+     • Đưa ra bất kỳ hình thức bồi thường nào nhằm mục đích thay đổi kết quả của trò chơi, một phần của trò chơi, trận đấu hoặc số trận đấu; hối lộ.
+Ngoài ra, các vật phẩm sau đây bị cấm tại Sự kiện Pokémon:
+     • Tất cả các loại súng cầm tay, bao gồm cả vũ khí giả có thể bị nhầm lẫn với những loại vũ khí đó.
+     • Trang phục và phụ kiện có ngôn ngữ không phù hợp hoặc kích động hoặc được Ban tổ chức xác định là không phù hợp với môi trường như vậy.
+Bất kỳ người tham dự nào bị phát hiện vi phạm chính sách này sẽ bị xóa khỏi địa điểm giải đấu và vụ việc phải được báo cáo cho Pokémon Tổ chức Play.
+
+2.4.1.1 Trong khi thi đấu giải đấu
+Đối với những người chơi đang tham gia thi đấu trong giải đấu, các hành vi sau đây cũng không được phép trong khi các trận đấu đang diễn ra, trừ khi được nhân viên sự kiện cho phép rõ ràng:
+     • Nhận thông tin từ nguồn bên ngoài về trận đấu của mình hoặc trận đấu của người khác.
+     • Nhận cuộc gọi điện thoại hoặc sử dụng thiết bị di động.
+     • Đeo tai/tai nghe, trừ khi người chơi đang tham gia giải đấu Trò chơi điện tử Pokémon và rõ ràng tai/ tai nghe đó được cắm vào hệ thống trò chơi của họ.
+Ngoài ra, những vật dụng sau đây bị cấm mang lên bề mặt chơi:
+     • Thực phẩm và đồ uống.
+     • Các ghi chú viết sẵn và/hoặc các văn bản hỗ trợ.
+
+2.5 Định nghĩa vai trò và trách nhiệm
+Người chơi là bất kỳ người tham gia tích cực nào trong Giải đấu Pokemon. Người chơi bị loại khỏi giải đấu sẽ trở thành khán giả.
+
+2.5.1.1 Trách nhiệm của Người chơi
+Tất cả người chơi phải:
+     • Có mặt để chơi đúng giờ.
+     • Kiểm tra kỹ thành tích trận đấu và thứ hạng của họ khi các cặp đấu được đăng ở mỗi vòng và báo cáo bất kỳ sự khác biệt nào cho nhân viên sự kiện thích hợp ngay lập tức.
+Người chơi cũng có trách nhiệm cung cấp những điều sau:
+     • ID người chơi hợp lệ.
+     • Một nhóm hoặc đội đáp ứng các hạn chế về thể thức của giải đấu.
+     • Danh sách các lá bài rõ ràng và chính xác bao gồm bộ bài của người chơi (danh sách bộ bài) hoặc Pokémon trong đội của người chơi (danh sách đội).
+     • Bất kỳ dụng cụ cần thiết nào để chơi, theo dõi và duy trì thông tin trò chơi. Điều này bao gồm nhưng là không giới hạn các mục như:
+                 o Damage counters;
+                 o Coin hiệu ứng;
+                 o Máy ngẫu nhiên;
+                 o Máy chơi game hoạt động tốt;
+                 o Thẻ game chính hãng hoặc máy chơi game hoạt động tốt.
+Khán giả là những người có mặt tại Sự kiện Pokémon nhưng không tích cực tham gia giải đấu. Điều này bao gồm cha mẹ, người đi kèm và những người chơi đã rời khỏi giải đấu.
+
+2.5.2.1 Trách nhiệm của khán giả
+Tất cả khán giả phải:
+     • Không can thiệp vào trận đấu dưới bất kỳ hình thức nào. 
+     • Giữ khoảng cách hợp lý với các trận đấu đang diễn ra để tránh làm người chơi mất tập trung.
+     • Không thảo luận về các trận đấu đang diễn ra trong tầm nghe của bàn.
+Nếu một khán giả gây rối phải chịu trách nhiệm về một người chơi hiện đang tham gia giải đấu, người chơi đó có thể bị phạt như thể họ đã thực hiện hành vi gây rối.
+Điều này cuối cùng có thể dẫn đến việc người chơi đó bị loại khỏi giải đấu, nếu cần loại bỏ khán giả có liên quan khỏi sự kiện.
+
+2.5.3 Ban tổ chức giải đấu
+Người tổ chức một giải đấu là Giáo sư, người ban đầu đã phê duyệt giải đấu đó trên trang web chính thức của Pokémon.
+Họ chịu trách nhiệm cuối cùng trong việc đảm bảo rằng giải đấu được vận hành theo Quy tắc và thủ tục của Pokémon.
+
+2.5.3.1 Trách nhiệm của ban tổ chức
+Ban tổ chức chịu trách nhiệm về tất cả các khía cạnh của việc xử phạt và điều hành giải đấu, bao gồm sắp xếp địa điểm thích hợp, nhận và phân phối bất kỳ giải thưởng nào, báo cáo kết quả và bố trí nhân sự cho Ban tổ chức sự kiện.
+Ban tổ chức cũng được yêu cầu thông báo cho người chơi những thông tin sau vào thời điểm thích hợp:
+     • Loại giải đấu (Swiss, Swiss cộng với loại trực tiếp loại trực tiếp, v.v.)
+     • Hình thức giải đấu (Tiêu chuẩn, Mở rộng, v.v.)
+     • Số vòng
+     • Số phút mỗi vòng
+     • Hình thức trận đấu (Trò chơi đơn hoặc Trò chơi hay nhất trong ba)
+     • Top cut, nếu có
+     • Nhân viên giải đấu, đặc biệt là các Trọng tài trưởng (Head Judge)
+     • Bất kỳ thời gian nghỉ giải lao nào trong giải đấu
+Thể thức và thể loại giải đấu phải được thông báo trước giải đấu đủ xa để người chơi có thể chuẩn bị cho giải đấu trước khi đến.
+Số hiệp, số phút mỗi hiệp, thành tích cao nhất, nhân sự thi đấu và thời gian nghỉ phải được thông báo trước khi bắt đầu hiệp đầu tiên.
+
+2.5.4 Trọng tài
+Các trọng tài phải đưa ra phán quyết khách quan và hỗ trợ Ban tổ chức và Trọng tài trưởng điều hành một giải đấu vui vẻ, nhanh chóng và công bằng. 
+Pokemon hỗ trợ các phán quyết của các trọng tài, trong đó các phán quyết đó được đưa ra một cách công bằng và vì lợi ích tốt nhất theo Tinh thần trò chơi.
+
+2.5.4.1 Trách nhiệm của Trọng tài (Judge)
+Tất cả các trọng tài phải:
+      • Không có thành kiến đối với hoặc chống lại bất kỳ người chơi nào.
+      • Tránh phán quyết những trò chơi có sự tham gia của các thành viên trong gia đình hoặc bạn bè thân thiết nếu có thể.
+      • Nêu gương và khuyến khích hành vi thể thao tốt.
+
+2.5.4.2 Trách nhiệm của Trọng tài trưởng (Head Judge)
+Trọng tài trưởng đóng vai trò là trọng tài cuối cùng của tất cả các phán quyết và diễn giải quy tắc cho một giải đấu và chịu trách nhiệm cuối cùng trong việc đảm bảo rằng tất cả những người tham gia tuân thủ các quy tắc được nêu trong tài liệu này.
+Trọng tài trưởng phải:
+      • Đảm bảo rằng các trọng tài vẫn hoạt động tích cực và làm đúng nhiệm vụ.
+      • Điền và nộp mẫu Tóm tắt hình phạt cho giải đấu.
+      • Hoàn thành và gửi Báo cáo loại bỏ tư cách cho mỗi lần bị loại (ngoại trừ không trình diễn).
+
+2.6 Đăng tin giải đấu
+Pokémon Tổ chức Play có quyền công bố thông tin giải đấu, bao gồm nhưng không giới hạn đến danh sách bộ bài, danh sách đội, bản ghi, bản ghi âm và/hoặc video hoặc các bản kể lại khác, hình phạt của người chơi, giải thưởng hoặc bất kỳ thông tin kết quả nào khác từ giải đấu.
+Ban tổ chức, giám khảo, người chơi và khán giả cũng có quyền công bố thông tin chi tiết về trận đấu và/hoặc kết quả của trận đấu, giải đấu, tuân theo luật pháp địa phương, tiểu bang và quốc gia.
+Tham dự một Sự kiện Pokémon có thể khiến hình ảnh và chân dung của người tham dự bị chụp ảnh và được quay video bởi hoặc thay mặt cho The Pokémon Company International (TPCi).
+Bằng cách tham gia hoặc ở lại Các sự kiện Pokémon, người tham dự cấp quyền cho TPCi, các chi nhánh của nó và các tổ chức truyền thông công bố tên, hình ảnh, chân dung, thành phần đội hoặc bộ bài, phương pháp chơi, và các tuyên bố bằng văn bản và bằng miệng liên quan đến bất kỳ hình ảnh tĩnh, hiển thị video trực tiếp hoặc ghi lại nào, hoặc việc truyền tải hoặc tái tạo lại sự kiện này, toàn bộ hoặc một phần.
+2.6.1 Đăng deck/team lists
+Nội dung của bộ bài hoặc đội của bất kỳ người chơi nào có thể được Ban tổ chức xuất bản bất cứ lúc nào khi sự kiện bắt đầu, miễn là thông tin này có thể truy cập công khai và việc xuất bản dữ liệu đó là một phần của sáng kiến mang lại giá trị bổ sung cho những người tham dự. hoặc xem sự kiện. Ví dụ: điều này bao gồm việc phát sóng một trận đấu qua luồng trực tiếp hoặc xuất bản một bài viết về sự kiện này. 
+Nếu không, dữ liệu này phải được giữ bí mật trong suốt thời gian diễn ra giải đấu.
+
+3 Chính sách của giải đấu
+3.1 Giới thiệu
+Phần này phác thảo và giải thích các tiêu chuẩn và chính sách mà Trò chơi có tổ chức Pokémon mong đợi Người tổ chức tôn trọng khi lên lịch và báo cáo mọi Giải đấu Pokemon.
+     • Nơi các giải đấu có thể được tổ chức, bao gồm các quy định và hạn chế về lịch thi đấu.
+     • Kết quả phải được báo cáo như thế nào sau khi giải đấu kết thúc.
+
+3.2 Lịch trình giải đấu
+3.2.1 Khu vực được cho phép
+Trò chơi có tổ chức của Pokémon ưu tiên tất cả các sự kiện được phê duyệt sẽ được tổ chức trong cửa hàng trò chơi. Tuy nhiên, chúng tôi thừa nhận rằng những địa điểm này có thể không phải lúc nào cũng có sẵn và do đó cho phép các sự kiện được phê duyệt diễn ra được tổ chức ở các địa điểm công cộng khác, chẳng hạn như trung tâm cộng đồng, thư viện hoặc hội trường sự kiện.
+Ban tổ chức phải đảm bảo rằng bất kỳ địa điểm tổ chức giải đấu tiềm năng nào:
+• Sạch sẽ, an toàn và mở cửa cho công chúng và sẽ duy trì như vậy trong suốt thời gian diễn ra giải đấu;
+• Chào đón những người tham dự thuộc bất kỳ hoàn cảnh, niềm tin hoặc hoàn cảnh cá nhân nào;
+• Đáp ứng mọi luật pháp địa phương hiện hành.
+3.2.2 Phê chuẩn
+Trò chơi có tổ chức Pokémon khuyến khích các Giáo sư tổ chức các giải đấu của họ không quá 14 ngày trước ngày dự kiến diễn ra sự kiện. Điều này đảm bảo rằng người chơi có đủ cơ hội tìm giải đấu bằng công cụ Định vị sự kiện
+3.2.2.1 Sự kiện Premier
+Sự kiện Premier là một loại hình được phê chuẩn đặc biệt Giải đấu Pokémon diễn ra như một phần của Chuỗi giải vô địch Pokémon và trao Điểm vô địch cho những người có vị trí cao trong bảng xếp hạng cuối cùng.
+Một số Sự kiện cao cấp có thể không bị xử phạt nếu không sử dụng một công cụ đặc biệt mà Đơn vị tổ chức phải được cấp quyền truy cập để sử dụng. Việc xử phạt các giải đấu này mà không sử dụng công cụ này có thể dẫn đến sự vô hiệu của giải đấu đó.
+Ngoài tài liệu này, Ban tổ chức cũng nên chú ý đến mọi hướng dẫn bổ sung mà họ nhận được khi đủ điều kiện tổ chức từng loại Sự kiện Premier.
+
+3.3 Tham dự giải đấu
+Các giải đấu Pokémon phải dành cho tất cả những người đáp ứng các yêu cầu Đủ điều kiện tham gia do Pokémon có tổ chức đặt ra, mặc dù có thể có các trường hợp ngoại lệ sau:
+     • Ban tổ chức có thể chọn ưu tiên đăng ký cho những người chơi thường xuyên tham dự Pokémon Các phiên giải đấu tại một địa điểm liên kết với giải đấu.
+     • Ban tổ chức có thể chọn không cho phép bất kỳ người chơi nào mà họ cảm thấy là mối đe dọa đối với sự an toàn hoặc sự thích thú của người khác vào cửa hoặc sự hiện diện của họ trước đây đã được chứng minh là gây bất lợi cho địa điểm tổ chức sự kiện vì bất kỳ lý do nào khác.
+3.3.1 Phí tham dự giải
+Ban tổ chức có thể tính phí để tham gia các giải đấu.
+Pokemon không đưa ra khuyến nghị nào về phí tham gia ngoài quy định rằng Ban tổ chức phải tuân theo tất cả các yêu cầu pháp lý địa phương có thể áp dụng khi quyết định xem có tính phí hay không, bằng cách nào và tính phí gì.
+
+3.4 Tính toàn vẹn của giải đấu
+Điều bắt buộc là các Sự kiện Premier phải được vận hành theo tiêu chuẩn cao nhất và cần thực hiện mọi nỗ lực để tránh mọi mối đe dọa có thể xảy ra đối với tính toàn vẹn của giải đấu. Mặc dù mọi Giải đấu Pokémon nên xem xét những điều bên dưới, thông tin được mô tả trong phần này là bắt buộc đối với tất cả các Sự kiện Premier.
+3.4.1 Kiểm tra tính hợp lệ
+Danh sách bộ bài hoặc danh sách đội phải luôn được thu thập tại các Sự kiện Premier và việc kiểm tra tính hợp pháp phải được thực hiện bất cứ lúc nào giải đấu diễn ra từ Swiss đến Loại trực tiếp, cũng như ngẫu nhiên trong suốt các vòng đấu Swiss.
+Pokémon hy vọng rằng việc kiểm tra tính hợp pháp sẽ được thực hiện trên ít nhất 10% bộ bài hoặc đội, nhưng khuyến nghị nhân viên giải đấu cố gắng hoàn thành nhiều nhất có thể.
+
+3.4.2 Đội ngũ nhân sự
+3.4.2.1 Ban tổ chức
+Sự hiện diện của người tổ chức Ban tổ chức chịu trách nhiệm cuối cùng trong việc đảm bảo rằng giải đấu được tổ chức theo các quy tắc và thủ tục được nêu trong tài liệu này và các tài liệu quy tắc cốt lõi khác. Vì vậy, Ban tổ chức thường phải có mặt tại giải đấu khi giải đấu đang diễn ra.
+Trong những trường hợp đặc biệt, Pokémon có thể cho phép chuyển trách nhiệm của một giải đấu từ ban tổ chức này sang ban tổ chức khác. Nếu những trường hợp này được áp dụng, Đơn vị tổ chức hiện tại phải gửi yêu cầu thông qua Nhóm dịch vụ khách hàng Pokémon.
+Mỗi yêu cầu được xem xét riêng lẻ trên cơ sở từng trường hợp cụ thể.
+
+3.4.2.2 Trọng tài
+Pokemon đặc biệt khuyến nghị rằng tất cả các giải đấu—nhưng đặc biệt là các Sự kiện Premier— có sự tham dự của các Giáo sư có chứng chỉ TCG hoặc VG Judge. Sự hiện diện của trọng tài giúp đảm bảo rằng các thắc mắc về phán quyết được giải quyết tốt nhất có thể và nếu có nhiều trọng tài có mặt thì người chơi không phải đợi một thời gian dài trước khi nhận được sự chú ý.
+Việc có trọng tài hỗ trợ tại các giải đấu cũng giúp việc kiểm tra tính hợp pháp được tiến hành dễ dàng hơn.
+
+3.4.2.3 Thù lao của nhân viên
+Pokémon Tổ chức Play không đưa ra khuyến nghị nào về thù lao của nhân viên giải đấu, ngoài lời nhắc nhở rằng ban giám khảo và các tình nguyện viên khác đóng góp giá trị gia tăng cho trải nghiệm giải đấu và phải được đánh giá cao.
+
+3.4.4 Hồ sơ giấy tờ
+Hồ sơ, chẳng hạn như bảng xếp hạng, cặp đôi và phiếu thi đấu, có thể được lưu giữ cho đến khi kết thúc giải đấu để hỗ trợ giải quyết mọi khác biệt tiềm ẩn có thể phát sinh. Sau đó chúng sẽ bị hủy ngay lập tức.
+
+3.4.3.1 Phiếu thi đấu
+Phiếu thi đấu đóng vai trò là bản ghi kết quả của bất kỳ trận đấu nào. Phiếu thi đấu phải luôn được sử dụng tại Sự kiện Premier.
+Cuối mỗi trận đấu, người chơi phải ghi kết quả phù hợp vào phiếu. Sau đó, cả hai người chơi nên ký tắt vào phiếu để thể hiện rằng họ đồng ý với kết quả.
+Khi phiếu thi đấu đã được ký, kết quả đó được coi là cuối cùng. Sau đó, người chiến thắng trận đấu có trách nhiệm nộp phiếu theo chỉ dẫn của Ban tổ chức.
+
+3.5 Báo kết quả giải đấu
+Kết quả giải đấu sẽ được Pokémon tổ chức Play nhận trong vòng 7 ngày kể từ ngày kết thúc giải đấu đó và sẽ được báo cáo trực tuyến tại trang web chính thức của Pokémon.
+Bất kỳ giải đấu nào không có kết quả được gửi vào thời điểm này đều bị coi là quá hạn và có thể gây nguy hiểm cho khả năng đủ điều kiện đăng cai Sự kiện Premier trong tương lai của Ban tổ chức.
+
+3.5.1 Sai ID người chơi
+Nếu họ phát hiện ra rằng ID người chơi của họ đã được ghi không chính xác, người chơi nên liên hệ với Ban tổ chức của giải đấu liên quan. ID người chơi bị sai có thể được Ban tổ chức sửa trực tiếp bằng công cụ “Thay thế ID người chơi” trong tối đa 3 tháng kể từ ngày tải lên.
+Bất kỳ vấn đề nào được phát hiện sau thời gian này phải được Ban tổ chức báo cáo cho Nhóm dịch vụ khách hàng Pokémon.
+
+3.6 Trận đấu được phát sóng
+Trong khi tham dự Giải đấu Pokémon, một số người chơi có thể được hướng dẫn chơi một trận đấu sẽ được giới thiệu, chiếu hoặc phát sóng (phát trực tiếp) trực tiếp tới một lượng lớn khán giả và/hoặc người xem trực tuyến.
+Người chơi phải tuân thủ hướng dẫn của Ban tổ chức về địa điểm diễn ra trận đấu.
+Ngoài ra, những trận đấu này có thể yêu cầu bổ sung thiết bị hoặc cân nhắc, chẳng hạn như bao bọc thẻ mới, thảm chơi, trang phục hoặc sử dụng tai nghe chống ồn. Người chơi phải tuân thủ những cân nhắc này.
+
+3.6.1 Tham gia các trận đấu được phát sóng
+Bằng cách tham gia hoặc ở lại Sự kiện Pokémon, họ đồng ý tuân theo thông tin được quy định trong phần Xuất bản Thông tin Giải đấu (2.6.) của tài liệu này. Người chơi không được phép tự nguyện từ chối tham gia một trận đấu được phát trực tuyến.
+Trong những trường hợp đặc biệt, Ban tổ chức có thể tùy ý quyết định rằng việc trận đấu đã chọn không được phát trực tuyến sẽ mang lại lợi ích tốt nhất cho tất cả những người liên quan. Tuy nhiên, cần lưu ý rằng việc xem xét này chỉ dành cho những trường hợp thực sự hiếm gặp, trong đó khả năng tham gia đầy đủ vào trận đấu đó của người chơi có thể bị tổn hại nghiêm trọng.
+Trong trường hợp người chơi tin rằng hoàn cảnh cá nhân của họ có thể khiến họ gặp khó khăn khi xuất hiện trên luồng, họ nên cố gắng hết sức để thông báo cho Ban tổ chức trước ngày diễn ra sự kiện.
+
+3.6.2 Phạm quy trong các trận đấu được phát sóng
+Những vi phạm quy tắc được thực hiện trong các trận đấu được phát trực tuyến mà không được giải quyết ngay lập tức có thể bị xác định và bị phạt khi xem lại cảnh quay trận đấu sau đó.
+Ngoài ra, một số loại hình phạt nhất định, đặc biệt là những hình phạt liên quan đến hành vi hoặc ngôn ngữ không được chấp nhận, có thể tăng cao khi vi phạm xảy ra trong trận đấu được phát trực tuyến.
+
+3.7 Giải thưởng
+Tất cả các giải thưởng được cung cấp để sử dụng tại Play cụ thể! Các giải đấu Pokémon phải được sử dụng theo quy định bất cứ khi nào có thể. Trừ khi có quy định khác, Ban tổ chức luôn được tự do bổ sung bất kỳ hỗ trợ giải thưởng
+nào do Pokémon có tổ chức cung cấp.
+Pokemon không đưa ra khuyến nghị nào liên quan đến việc đánh giá bổ sung này ngoài quy định rằng Ban tổ chức phải tuân theo tất cả các yêu cầu pháp lý địa phương có thể áp dụng.
+
+3.7.1 Nhận giải
+Để đủ điều kiện nhận một số giải thưởng nhất định, người chơi phải đảm bảo rằng họ đã thể hiện ý định tham gia Pokémon—do đó chấp nhận mọi điều kiện tham gia như đã nêu trong tài liệu này—thông qua tài khoản Câu lạc bộ Huấn luyện viên Pokémon của họ. Tùy chọn này được tìm thấy trong phần “Tiêu đề Cài đặt Pokémon”, nằm ở thanh điều hướng bên trái bên dưới “Hồ sơ của tôi”.
+Người chơi chưa chọn tùy chọn tham gia Pokémon sẽ không đủ điều kiện nhận các giải thưởng bao gồm Điểm vô địch, lời mời tham gia sự kiện hoặc giải thưởng du lịch.
+
+3.7.2 Ảnh hưởng của người chơi không đủ tiêu chuẩn nhận giải
+Người chơi không đủ điều kiện nhận giải thưởng từ bất kỳ Sự kiện Pokémon mà họ đã bị loại.
+Sau khi bất kỳ người chơi nào bị loại khỏi bảng xếp hạng, vị trí của những người chơi khác có thể điều chỉnh tương ứng. Điều này có thể có nghĩa là người chơi mới sẽ đủ điều kiện nhận giải thưởng.
+Nếu một sự điều chỉnh như thế này xảy ra sau khi bất kỳ giải thưởng vật chất nào đã được trao, những người chơi có thứ hạng cuối cùng được sửa đổi sẽ không nhận được thêm giải thưởng vật chất, nhưng sẽ đủ điều kiện để nhận bất kỳ khoản tăng nào về Điểm vô địch, giải thưởng du lịch và các giải thưởng phi vật chất tương tự có thể được trao sau khi giải đấu kết thúc.
+
+3.7.3 Sản phẩm khuyển mại
+Sản phẩm khuyến mại dành cho sử dụng tại Các sự kiện Pokémon, bao gồm cả chương trình Liên minh Pokémon, phải được phân phối theo chỉ dẫn bất cứ khi nào có thể.
+Bắt đầu 30 ngày sau sự kiện hoặc phiên giải đấu cuối cùng mà tài liệu này dự định được phân phối, phần còn lại có thể được sử dụng cùng với Các sự kiện Pokémon theo quyết định của Ban tổ chức. Nếu không, nó phải bị hủy.
+Bất kỳ Nhà tổ chức nào cũng không được phép bán tài liệu quảng cáo như vậy dưới bất kỳ hình thức nào.
+
+3.7.4 Giải thưởng chưa được nhận
+Sản phẩm khuyến mại hoặc giải thưởng khác không được nhận sau khi giải đấu kết thúc sẽ bị người chơi coi là bị mất. Người chơi không nên mong đợi rằng họ sẽ vẫn được hưởng bất kỳ giải thưởng nào nếu họ không có mặt tại giải đấu để nhận chúng.
+
+4 Hoạt động trong giải đấu và chi tiết
+4.1 Giới thiệu
+Phần này phác thảo và giải thích các chi tiết cụ thể của giải đấu. Bạn nên đọc phần này nếu bạn quan tâm đến:
+     • Các quy tắc cơ bản cho tất cả giải đấu Pokémon                         • Cách người chơi được ghép đôi và xếp hạng
+     • Các loại cấu trúc giải đấu khác nhau                                   • Cách tính vị trí cuối cùng của người chơi
+
+4.1.1 Khái niệm
+4.1.1.1 Trận đấu
+Một trận đấu được định nghĩa là một trận đấu hoặc một loạt trận đấu với một đối thủ duy nhất như một phần của một trận đấu. giải đấu.
+Nhiều trận đấu bao gồm một trận đấu duy nhất, nhưng một số trận đấu có thể được chơi ở thể thức ba trận hay nhất. Nếu các trận đấu hay nhất sẽ diễn ra tại bất kỳ thời điểm nào của giải đấu, Ban tổ chức phải nêu rõ thời điểm chúng diễn ra trước khi vòng đầu tiên bắt đầu.
+
+4.1.1.2 Vòng
+Nhóm các trận đấu được diễn ra tại một thời điểm bất kỳ trong giải đấu được gọi là một vòng đấu. Số vòng đấu sẽ diễn ra tùy thuộc vào số lượng người chơi tham dự cũng như phong cách của giải đấu đang được tổ chức.
+
+4.2 Phân nhóm tuổi
+Trò chơi có tổ chức của Pokémon chia người chơi thành ba nhóm tuổi: Junior, Senior và Masters.
+Việc phân chia độ tuổi mà một player tham gia được ấn định vào đầu mùa giải, dựa trên năm sinh của cầu thủ đó và không thay đổi trong suốt mùa giải đó. 
+Điều này cho phép người chơi cạnh tranh với cùng một nhóm đối thủ trong suốt mùa giải.
+                                        Phân chia độ tuổi mùa giải vô địch năm 2020
+                        Junior Division                                            Người chơi sinh năm 2009 trở lên
+                        Senior Division                                            Các người chơi sinh năm 2005–2008
+                        Masters Division                                           Người chơi sinh năm 2004 trở về trước
+
+4.3 Yêu cầu về người chơi
+4.3.1 Số lượng người chơi tối thiểu
+Một Giải đấu Pokémon phải có ít nhất 4 người chơi tham gia. Trong số những người chơi đó, ít nhất 4 người phải hoàn thành 2 vòng đấu trở lên.
+Nếu có ít hơn 4 người chơi tham gia giải đấu, Ban tổ chức sẽ báo cáo giải đấu là “Đã hủy”.
+
+4.3.2 Đến muộn
+Nếu Ban tổ chức cảm thấy rằng việc bổ sung người chơi đến muộn sẽ tạo ra mối đe dọa cho tính toàn vẹn của sự kiện, họ có thể chọn từ chối tham gia sự kiện đối với người chơi đó. Nếu không, người chơi có thể được thêm vào giải đấu và sẽ được ghép đôi ở vòng sau. Người chơi đó sẽ bị thua ở vòng hiện tại và bất kỳ vòng nào đã hoàn thành.
+Những người chơi được thêm vào một giải đấu sau khi vòng đầu tiên được ghép đôi sẽ luôn được xếp hạng dưới những người chơi có cùng thành tích trận đấu đến đúng giờ và được biểu thị trên tài liệu giải đấu bằng dấu hoa thị (*) xuất hiện bên cạnh tên của họ.
+Những người chơi được thêm vào một giải đấu sau khi vòng đầu tiên đã được ghép đôi sẽ không được tính vào số vòng mà giải đấu đó sẽ tổ chức.
+
+4.3.3 Đến muộn tại các sự kiện Premier
+Người chơi không nên được thêm vào Sự kiện Premier sau khi vòng thứ ba hoàn thành.
+
+4.4 Kết quả trận đấu và xếp hạng
+Thành tích trận đấu của một player là sự thể hiện số trận họ đã thắng, thua hoặc hòa trong suốt giải đấu. Nó được trình bày dưới dạng tỷ lệ ở định dạng “W/L/T” 
+Ví dụ: người chơi thắng 4 trận, thua 3 trận và hòa 1 trận sẽ có thành tích trận đấu là 4/3/1.
+Hồ sơ trận đấu được in và hiển thị mỗi hiệp trên các cặp đấu và phiếu thi đấu cùng với tên của mỗi người chơi và phải được người chơi kiểm tra độ chính xác ngay khi chúng được cung cấp.
+
+4.4.1 Lỗi bản ghi trận đấu
+Ban tổ chức có toàn quyền quyết định ghép lại một vòng nếu hồ sơ trận đấu của người chơi được phát hiện là không chính xác.
+Ban tổ chức có thể sửa lỗi trước khi vòng đấu bắt đầu và ghép lại số lượng người chơi tối thiểu để có một cặp đấu hợp lệ, hoặc đợi đến khi vòng đấu bắt đầu mới sửa lại thành tích trận đấu. Trong cả hai trường hợp, việc ghép đôi của người chơi ở vòng tiếp theo sẽ đúng.
+Hồ sơ trận đấu không thể được thay đổi sau khi vòng thứ hai tiếp theo được ghép nối. Ví dụ: không thể thay đổi hồ sơ trận đấu của vòng 1 sau khi vòng 3 được ghép nối.
+Việc thay đổi thành tích trận đấu một hiệp sau khi xảy ra lỗi sẽ ảnh hưởng đến giải đấu tương tự như việc bắt đôi hoặc xuống đôi ngẫu nhiên. Tuy nhiên, việc thay đổi thành tích trận đấu nhiều vòng sau đó sẽ có tác động lớn hơn nhiều đến giải đấu và có thể dẫn đến việc một player phải đối mặt với những đối thủ có thành tích trận đấu thấp hơn trong phần lớn thời gian của giải đấu trước khi sự thay đổi trong thành tích trận đấu của chính họ đưa họ lên vị trí cao nhất.
+
+4.4.2 Điểm trận đấu
+Điểm trận đấu được tích lũy khi người chơi tiến bộ thông qua một giải đấu. Số điểm trận đấu mà một người chơi có được tại một thời điểm được xác định bởi thành tích trận đấu của họ.
+                                             Phân phối điểm trận đấu
+                                Thắng                                   3 điểm trận đấu
+                                Thua                                    0 điểm trận đấu
+                                Hòa                                     1 điểm trận đấu
+Người chơi nhận được 3 điểm trận đấu cho một trận thắng, 0 cho một trận thua và 1 cho một trận hòa. Vì vậy, nếu thành tích trận đấu của một người chơi là 4/3/1, họ có 13 điểm trận đấu. Điều này cũng giống như một người chơi có thành tích trận đấu là 3/1/4.
+Hồ sơ trận đấu được in và hiển thị mỗi hiệp trên các cặp đấu và phiếu thi đấu bên cạnh hồ sơ trận đấu của mỗi người chơi. Chúng được hiển thị dưới dạng số trong ngoặc đơn; trong trường hợp này, (13).
+
+4.4.3 Tỉ lệ thắng
+Tỷ lệ phần trăm thắng của người chơi—viết tắt là Op Win % trên tài liệu giải đấu—là tỷ lệ trung bình của tỷ lệ phần trăm thắng của tất cả các đối thủ đã chơi trong một vòng đấu nhất định.
+
+4.4.3.1 Tính Phần Trăm Thắng
+Việc đối thủ đã hoàn thành giải đấu hay bị loại trước khi giải đấu kết thúc có thể ảnh hưởng đến cách tính phần trăm chiến thắng của họ.
+Nếu một người chơi đã hoàn thành giải đấu, tỷ lệ thắng của họ sẽ là số trận thắng chia cho tổng số vòng đấu trong giải đấu, với tỷ lệ thắng tối thiểu là 25% và tỷ lệ thắng tối đa là 100%. Bảng dưới đây minh họa:
+                                             Người chơi đã hoàn thành giải đấu
+              Tỷ lệ thắng tối thiểu: 25%                                           Tỷ lệ thắng tối đa: 100%
+                                                              Ví dụ
+                Tổng số trận thắng                         Tổng số vòng                            % Thắng 
+                       1                                        5                                    25%
+                       3                                        5                                    60%
+                       5                                        5                                    100%
+Nếu một người chơi bị loại khỏi sự kiện trước khi nó kết thúc, tỷ lệ thắng của họ là số trận thắng chia cho số vòng mà họ tham gia, với tỷ lệ thắng tối thiểu là 25% và tỷ lệ thắng tối đa là 75%. Bảng dưới đây minh họa:
+                                    Người chơi bị loại trước khi giải đấu kết thúc
+              Tỷ lệ thắng tối thiểu: 25%                                           Tỷ lệ thắng tối đa: 75%
+                                                              Ví dụ
+                Tổng số trận thắng                       Số vòng hoàn thành                        % Thắng 
+                       1                                        5                                    25%
+                       3                                        5                                    60%
+                       5                                        5                                    75%
+Khi tỷ lệ phần trăm chiến thắng của đối thủ của người chơi được tính toán, chúng sẽ được tính trung bình, dẫn đến con số cuối cùng được hiển thị.
+
+4.4.3.2 Tỷ lệ thắng và tạm biệt ngẫu nhiên
+Khi tính Tỷ lệ phần trăm thắng của đối thủ, các hiệp đấu trong đó người chơi nhận được lời tạm biệt ngẫu nhiên không được tính là chiến thắng cho người chơi đó. Đúng hơn, vòng này hoàn toàn không được xem xét cho mục đích tính toán này.
+
+4.5 Nhận thua và nhận hòa
+Kết quả của một trận đấu phải được quyết định bởi lối chơi hơn hết. Tuy nhiên, người chơi được phép để thủng lưới đối thủ hoặc (chỉ trong trường hợp các giải đấu TCG) đưa ra một đề nghị duy nhất để rút thăm trò chơi.
+Một player có thể quyết định thủng lưới vì bất kỳ lý do gì. Tuy nhiên, Pokémon không công nhận bất kỳ thỏa thuận không chính thức nào được thực hiện giữa những người chơi về kết quả của trận đấu trước khi ký kết phiếu trận đấu. Người chơi nên biết rằng bất kỳ thỏa thuận nào như vậy sẽ không được nhân viên giải đấu thực thi.
+Khi kết quả trận đấu đã được ghi vào phiếu thi đấu đã ký, kết quả đó được coi là cuối cùng và không thể thay đổi.
+Người chơi không được:
+    • Yêu cầu đối thủ nhượng bộ.
+    • Yêu cầu hòa một lần nữa khi đối thủ của họ đã nói rõ rằng họ không muốn làm như vậy.
+    • Hối lộ, ép buộc hoặc gây áp lực khác cho đối thủ về bất kỳ kết quả trận đấu nào.
+    • Tham khảo bảng xếp hạng giải đấu hoặc đợi các trận đấu khác đang diễn ra giải quyết trước khi quyết định để thủng lưới hoặc hòa.
+    • Quyết định kết quả trận đấu thông qua phương pháp ngẫu nhiên hoặc thông qua bất kỳ phương pháp lựa chọn nào khác.
+
+4.6 Loại giải đấu Pokemon
+Các giải đấu Pokémon TCG/VG bị trừng phạt có thể được tổ chức dưới dạng các sự kiện Swiss, loại trực tiếp hoặc Swiss kết hợp loại trực tiếp.
+Các kiểu giải đấu khác chỉ có thể được sử dụng khi có sự cho phép rõ ràng bằng văn bản của tổ chức Pokémon.
+
+4.6.1
+Hầu hết các Sự kiện Premier đều sử dụng phong cách giải đấu này, một mình hoặc kết hợp với Loại trực tiếp.
+Mục đích của phương pháp ghép đôi Swiss là để xác định một người chiến thắng duy nhất bằng cách ghép những người chơi có thành tích trận đấu giống nhau hoặc tương tự với nhau cho đến khi chỉ còn một người chơi bất bại.
+Các giải đấu được tổ chức theo phương pháp ghép đôi của Swiss cho phép mọi người chơi tham dự giải đấu có thể thi đấu ở mọi vòng, bất kể họ thể hiện tốt như thế nào trong suốt sự kiện.
+Các giải đấu Swiss tiến triển như sau:
+---------------------------------------------------------------------------------------------------------------------------------------------
+                                                          Vòng 1
+---------------------------------------------------------------------------------------------------------------------------------------------
+  Người chơi được ghép đôi ngẫu nhiên trong vòng chơi đầu tiên. Nếu có số lượng người tham gia lẻ, người chơi không có đối thủ sẽ được 1 "bye", được tính là thắng nhưng không được tính khi tính tiebreak.
+---------------------------------------------------------------------------------------------------------------------------------------------
+                                                          Vòng 2
+---------------------------------------------------------------------------------------------------------------------------------------------
+  Những người chơi trong kèo 1-0 (1 thắng, 0 thua) được ghép đôi ngẫu nhiên với nhau; Các đấu thủ trong kèo 0-1 (0 thắng, 1 thua) được ghép đôi theo cách tương tự.
+  Nếu có số lượng người chơi lẻ, một trong những người chơi trong bảng 1-0 sẽ được ghép ngẫu nhiên với một người chơi của các tay vợt trong nhánh 0-1 (miễn là họ không đấu với nhau ở vòng trước). Nếu điều này để lại một số lẻ người chơi trong bảng 0-1, một người chơi từ vòng này sẽ được tạm biệt, như trên.
+---------------------------------------------------------------------------------------------------------------------------------------------
+                                                Tất cả các vòng tiếp theo
+---------------------------------------------------------------------------------------------------------------------------------------------
+   Người chơi tiếp tục được ghép đôi ngẫu nhiên theo bản ghi trận đấu cho đến khi kết thúc số vòng quy định. Người chơi đứng đầu bảng xếp hạng lúc này chính là nhà vô địch.
+   Nếu có số lượng người chơi lẻ, các cặp tiếp tục như ở Vòng 2, ghép đôi từ khung cao nhất (nhiều trận thắng nhất) đến khung thấp nhất (ít trận thắng nhất), gán 1 "bye" ngẫu nhiên cho một người chơi ở khung thấp nhất.
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+4.6.1.1 Vị trí cuối cùng trên bảng xếp hạng Swiss
+Sau vòng chung kết Swiss, kỳ thủ duy nhất bất bại — hoặc kỳ thủ có số điểm trận đấu cao nhất và có số tiebreak tốt nhất — là người chiến thắng giải đấu. Tất cả những người chơi khác được xếp hạng dựa trên thành tích cuối cùng của họ tại sự kiện.
+Bởi vì người chơi thường có số điểm trận đấu tương tự nhau,  Pokémon sử dụng tiebreak để xác định thứ hạng cuối cùng của mỗi người chơi. Sau khi các đấu thủ được xếp hạng theo điểm trận đấu cuối cùng, các tiebreak được áp dụng theo thứ tự sau.
+Khi các tiêu chí cho một tiebreak được đáp ứng, sẽ không có tiebreak nào được áp dụng nữa.
+---------------------------------------------------------------------------------------------------------------------------------------------
+                     Tiebreaker đầu tiên                                    Đi trễ
+---------------------------------------------------------------------------------------------------------------------------------------------
+        Những người chơi đến giải đấu muộn được xếp hạng dưới những người chơi đến đúng giờ.
+---------------------------------------------------------------------------------------------------------------------------------------------
+                     Tiebreaker thứ hai                                     Tỷ lệ thắng của đối thủ
+---------------------------------------------------------------------------------------------------------------------------------------------
+        Những người chơi vẫn hòa hiện được xếp hạng theo % Op Win của họ, từ cao nhất đến thấp nhất.
+---------------------------------------------------------------------------------------------------------------------------------------------
+                     Tiebreaker thứ ba                                      Tỷ lệ thắng của đối thủ của đối thủ
+---------------------------------------------------------------------------------------------------------------------------------------------
+        Những người chơi vẫn hòa hiện được xếp hạng theo % Op Op Win của họ, từ cao nhất đến thấp nhất.
+        Tỷ lệ phần trăm thắng của đối thủ của đối thủ (Op Op Win %) là mức trung bình của % Op Win của tất cả các đối thủ của người chơi đó.
+---------------------------------------------------------------------------------------------------------------------------------------------
+                     Tiebreaker cuối cùng                                   Đối đầu
+---------------------------------------------------------------------------------------------------------------------------------------------
+        Nếu có chính xác hai đấu thủ bằng điểm trên bảng xếp hạng cuối cùng và các đấu thủ đó thi đấu với nhau trong suốt giải đấu thì người thắng trận đó được xếp cao hơn người thua.
+        Nếu có chính xác hai người chơi bằng điểm trên bảng xếp hạng cuối cùng và những người chơi đó không đấu với nhau trong suốt giải đấu thì thứ tự xuất hiện của họ sẽ được xác định ngẫu nhiên.
+        Nếu có nhiều hơn hai người chơi bằng điểm trong bảng xếp hạng cuối cùng thì thứ tự xuất hiện của họ sẽ được xác định ngẫu nhiên.
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+4.6.2 Loại trực tiếp
+Các giải đấu Loại trực tiếp xác định người chiến thắng trong sự kiện bằng cách loại người chơi khỏi giải đấu sau khi họ thua một trận. Số lượng người chơi ở mỗi vòng sẽ bằng một nửa số người chơi ở vòng trước (có thể ngoại trừ vòng đầu tiên).
+Giải đấu kết thúc khi chỉ còn một người chơi bất bại. Người chơi đó là người chiến thắng trong giải đấu.
+Các giải đấu loại trực tiếp diễn ra như sau:
+---------------------------------------------------------------------------------------------------------------------------------------------
+                                                        Vòng 1
+---------------------------------------------------------------------------------------------------------------------------------------------
+      Người chơi được chỉ định hạt giống ngẫu nhiên và sau đó được ghép nối dựa trên các dấu ngoặc Loại bỏ đơn tiêu chuẩn. 
+      Người chiến thắng trong mỗi trận đấu sẽ đi tiếp vào vòng tiếp theo, trong khi người thua cuộc sẽ bị loại khỏi giải đấu.
+---------------------------------------------------------------------------------------------------------------------------------------------
+                                               Tất cả các vòng tiếp theo
+---------------------------------------------------------------------------------------------------------------------------------------------
+      Người chơi tiếp tục được ghép đôi theo các bảng đấu, người thắng trận sẽ đi tiếp vào vòng tiếp theo và người thua sẽ bị loại khỏi giải đấu.
+      Cuối cùng, sẽ chỉ còn lại hai người chơi. Người chiến thắng trong trận đấu đó sẽ trở thành người chiến thắng của giải đấu.
+
+4.6.2.1 Bảng loại trực tiếp
+Nếu số lượng người chơi trong sự kiện không phải là lũy thừa của 2 (8, 16, 32, 64, 128, 256, v.v.), thì những người chơi có thứ hạng cao nhất sẽ nhận được "bye". Số lượng người chơi được "bye" dựa trên sự chênh lệch giữa số người tham dự thực tế và lũy thừa gần nhất của 2 lớn hơn số người tham dự thực tế.
+Ví dụ: nếu số người tham dự thực tế là 53 thì lũy thừa gần nhất của 2 lớn hơn 53 là 64. Chênh lệch giữa 64 và 53 là 11, do đó, 11 tay vợt hạt giống Premier (được xếp hạt giống ngẫu nhiên) sẽ được loại ngay vòng một .
+
+4.6.2.2 Vị trí cuối cùng trong bảng xếp hạng loại trực tiếp
+Sau vòng cuối cùng của Single Elimination, người chơi duy nhất còn lại là người chiến thắng giải đấu. Tất cả những người chơi khác được xếp hạng dựa trên thành tích cuối cùng của đối thủ đã loại họ khỏi sự kiện.
+Ví dụ: một người chơi bị loại ở vòng đầu tiên bởi người chiến thắng của giải đấu đó sẽ được xếp hạng cao hơn bất kỳ người chơi nào khác bị loại ở vòng đầu tiên.
+
+4.6.2.3 Trận play-off xếp hạng
+Ban tổ chức có thể để các players thua trong Top 4 thi đấu tranh hạng 3 và 4 thay vì sử dụng tiebreak để xác định vị trí thứ 3 và thứ 4 chung cuộc. Nếu đúng như vậy, Ban tổ chức phải làm rõ điều này khi bắt đầu giải đấu.
+
+
+4.6.3 Swiss + loại trực tiếp
+Mục đích của thể thức này là để tổ chức một số vòng đấu Swiss phù hợp với số lượng người chơi tham dự, sau đó những người chơi có thứ hạng cao nhất sẽ được xếp vào các bảng đấu Loại trực tiếp và chơi cho đến khi chỉ còn lại một người chơi. Người chơi đó là người chiến thắng của giải đấu.
+Hầu hết các Sự kiện Cao cấp đều sử dụng một biến thể của phong cách giải đấu này. Các phần sau đây minh họa Sự kiện cao cấp nào sử dụng biến thể nào cũng như thông tin chi tiết và sự khác biệt của từng biến thể đó.
+Ban tổ chức cần lưu ý rằng những người chơi được thêm vào một giải đấu sau khi vòng đầu tiên đã được ghép đôi sẽ không được tính vào số vòng mà giải đấu sẽ tổ chức.
+
+4.6.3.1 Cấu trúc giải đấu sự kiện Premier
+  -------------------------------------------------------------------------------------------------------------------
+                                      Cấu trúc giải đấu sự kiện Premier
+  -------------------------------------------------------------------------------------------------------------------
+  Trò chơi       Sự kiện Premier                Chế độ giải đấu TOM                Cơ cấu giải đấu
+  -------------------------------------------------------------------------------------------------------------------
+  VG             Thử thách Premier              Sự kiện Premier của VGC            Variant #1: VG Single Day
+  VG             Trận đấu giữa mùa giải         
+  VG             Giải vô địch khu vực
+  -------------------------------------------------------------------------------------------------------------------
+  VG             Giải vô địch quốc tế           Giải vô địch hai ngày TCG          Variant #3: VG & TCG Two Day
+  TCG            Cúp Liên đoàn                  Giải vô địch một ngày TCG          Variant #2: TCG Single Day
+  -------------------------------------------------------------------------------------------------------------------
+  TCG            Giải vô địch khu vực           Giải vô địch hai ngày TCG          Variant #3: VG & TCG Two Day
+  TCG            Giải vô địch quốc tế
+  -------------------------------------------------------------------------------------------------------------------
+
+4.6.3.2 Cấu trúc giải đấu một ngày
+Số lượng người chơi tham gia giải đấu ảnh hưởng trực tiếp đến số vòng đấu Swiss và Loại trực tiếp sẽ được diễn ra. Các bảng dưới đây minh họa mối quan hệ này:
+---------------------------------------------------------------------------------------------------------------------------
+                                                    Biến thể #1: 1 Ngày VG
+---------------------------------------------------------------------------------------------------------------------------
+     Người chơi theo độ tuổi               Hiệp Swiss                    Vòng loại trực tiếp                Tổng số vòng
+---------------------------------------------------------------------------------------------------------------------------
+          4–7                                  3                                  0                              3
+          8                                    3                                  1                              4
+          9–16                                 4                                  2                              6
+          17–32                                5                                  3                              8
+          33–64                                6                                  3                              9
+          65–128                               7                                  3                              10
+          129–226                              8                                  3                              11
+          227–256                              8                                  4                              12
+          257–409                              9                                  4                              13
+          410–512                              9                                  5                              14
+          513+                                 10                                 5                              15
+---------------------------------------------------------------------------------------------------------------------------
+                                                    Biến thể #2: 1 Ngày TCG
+---------------------------------------------------------------------------------------------------------------------------
+     Người chơi theo độ tuổi               Hiệp Swiss                    Vòng loại trực tiếp                Tổng số vòng
+---------------------------------------------------------------------------------------------------------------------------
+          4–8                                  3                                  0                              3
+          9–12                                 4                                  2                              6
+          13–20                                5                                  2                              7
+          21–32                                5                                  3                              8
+          33–64                                6                                  3                              9
+          65–128                               7                                  3                              10
+          129–226                              8                                  3                              11
+          227–409                              9                                  3                              12
+          410+                                 10                                 3                              13
+
+4.6.3.3 Cấu trúc giải đấu hai ngày
+Các Sự kiện Premier uy tín hơn có thể diễn ra trong hai ngày, với một phần người chơi có thứ hạng cao nhất sẽ tiến vào phần thứ hai của vòng đấu Swiss vào Ngày thứ hai.
+Trong trường hợp này, mọi người chơi có 19 điểm trận đấu trở lên hoặc người chơi trong Top 32 xếp hạng (bất kỳ số nào lớn hơn) sẽ tiến tới Ngày thứ hai của vòng đấu Swiss.
+Trong bảng bên dưới, đường màu đỏ biểu thị thời điểm bắt buộc phải có ngày thứ hai của vòng đấu Swiss.
+-------------------------------------------------------------------------------------------------------
+                                  Biến thể số 3: Hai ngày VG & TCG
+-------------------------------------------------------------------------------------------------------
+     độ tuổi        Hiệp Swiss          Hiệp Swiss             Vòng loại            Tổng số vòng
+                      (Day1)              (Day2)               trực tiếp
+-------------------------------------------------------------------------------------------------------
+      4–8               3                   0                      0                     3
+      9–12              4                   0                      2                     6
+      13–20             5                   0                      2                     7
+      21–32             5                   0                      3                     8
+      33–64             6                   0                      3                     9
+      65–128            7                   0                      3                     10
+      129–226           8                   0                      3                     11
+      227–799           9                   5                      3                     17
+      800+              9                   6                      3                     18
+
+4.6.3.4 Vị trí cuối cùng ở Swiss + Bảng xếp hạng loại trực tiếp
+Sau khi hoàn thành các vòng đấu Swiss, người chơi sẽ được xếp hạng dựa trên thành tích của họ và các players thắng trận Swiss. Một số người chơi có thứ hạng cao nhất sau đó sẽ được xếp vào bảng loại trực tiếp, bằng với số lượng slots trong bảng.
+Các trận đấu sau đó được diễn ra theo quy tắc Loại trực tiếp, với người chiến thắng sẽ đi tiếp vào bảng tiếp theo và người thua cuộc sẽ bị loại. Cuối cùng, sẽ chỉ còn lại một người chơi. Người chơi này là người chiến thắng của giải đấu.
+Việc xác định tiebreak để xác định vị trí cuối cùng của các tuyển thủ trong phần Loại trực tiếp của giải đấu chỉ đơn giản là thứ hạng Swiss cuối cùng của mỗi tuyển thủ.
+Sau mỗi vòng Loại trực tiếp, những người chơi bị loại được xếp hạng theo thứ hạng Swiss cuối cùng của họ, với người chơi có hạt giống cao nhất sẽ có thứ hạng cao nhất hiện có cho bảng đó, tiếp theo là người chơi có hạt giống cao thứ hai, v.v.
+
+4.7 Xếp cặp
+Sau khi mỗi vòng của giải đấu kết thúc, Ban tổ chức nên ghép cặp vào vòng tiếp theo và đăng tải các cặp đấu.
+Người chơi phải có một khoảng thời gian hợp lý để báo cáo bất kỳ sai sót nào về thứ hạng của mình và tìm chỗ ngồi trước khi người ghi điểm nhấp vào nút “Bắt đầu vòng đấu” trong TOM.
+Lưu ý rằng sau khi vòng đấu bắt đầu, bạn không thể thay đổi cặp nào.
+4.7.1 Byes ngẫu nhiên
+Trong suốt quá trình diễn ra giải đấu, người chơi có thể được chỉ định byes. Điều này xảy ra khi có một số lẻ đối thủ cạnh tranh.
+Một bye được tính là một chiến thắng đối với thành tích trận đấu của người chơi đó, nhưng không được tính là một hiệp đã chơi khi tính Tỷ lệ phần trăm thắng của người chơi đó.
+Trong trường hợp không thể tránh khỏi việc tạm biệt, chúng sẽ luôn được trao cho người chơi có thành tích trận đấu tệ nhất nếu có thể. Tuy nhiên, sẽ không có người chơi nào nhận được nhiều hơn một lời tạm biệt trong suốt giải đấu.
+
+4.8 Bỏ cuộc khỏi giải đấu
+Người chơi quyết định rằng họ không muốn tiếp tục chơi một giải đấu đang diễn ra nữa thì phải bỏ cuộc.
+Người chơi có thể quyết định rời khỏi giải đấu vì bất kỳ lý do gì, mặc dù người chơi không được rời khỏi một trận đấu đang diễn ra mà không để thủng lưới hoặc hoàn thành trận đấu đó trước.
+Ban tổ chức có thể yêu cầu người chơi điền vào biểu mẫu hoặc phiếu xác nhận rằng họ muốn bỏ cuộc hoặc báo cáo điều này với một thành viên cụ thể của nhân viên giải đấu. Mặc dù điều này có thể thay đổi tùy theo từng sự kiện nhưng thông tin sau đây về phần thưởng vẫn đúng với tất cả Giải đấu Pokémon.
+
+4.8.1 Những trận đấu chưa hoàn thành
+Những người chơi muốn rời khỏi giải đấu trước khi trận đấu hiện tại của họ hoàn tất sẽ bị thua đối với tất cả các trận đấu chưa được giải quyết. Nếu người chơi muốn tránh nhận những khoản thua này, họ phải đảm bảo rằng trận đấu của họ đã hoàn tất và kết quả đã được ghi lại trước khi họ làm theo thủ tục bỏ cuộc.
+Sau khi vòng hiện tại hoàn tất, người chơi sẽ bị loại khỏi giải đấu và sẽ không được ghép đôi trong bất kỳ vòng tiếp theo nào.
+4.8.2 Thứ hạng người chơi bỏ cuộc
+Những người chơi bị loại khỏi giải đấu trước khi giải đấu kết thúc vẫn sẽ được ghi tên vào bảng xếp hạng cuối cùng.
+4.8.3 Thứ hạng người chơi bị loại
+Nếu một người chơi bị loại khỏi một giải đấu, họ sẽ bị loại khỏi bảng xếp hạng hoàn toàn và không đủ điều kiện nhận bất kỳ giải thưởng nào mà thành tích trận đấu của họ có thể có.
+
+5 Luật giải đấu TCG
+5.1 Giới thiệu
+Phần này phác thảo và giải thích các quy tắc dành riêng cho các giải đấu Trò chơi Thẻ Pokémon.
+Bạn nên đọc phần này nếu bạn quan tâm đến:
+    • Các quy tắc cơ bản cho tất cả Giải đấu Pokémon TCG.
+    • Những lá bài và sự ngẫu nhiên nào là (không) hợp lệ để chơi.
+    • Cách giải quyết và tiebreakers cho các trận đấu và trò chơi TCG.
+Phần này giả định người đọc đã quen thuộc với thông tin được trình bày trong Sách quy tắc trò chơi thẻ Pokémon cơ bản.
+
+5.2 Bài hợp lệ
+Chỉ có thẻ Pokémon chính hãng mới có thể được sử dụng tại Sự kiện Pokémon.
+Người chơi phải đảm bảo rằng tất cả các thẻ họ muốn sử dụng trong mỗi giải đấu là:
+    • Phù hợp với format của giải.
+    • Ngôn ngữ chính xác đối với khu vực nơi giải đấu được tổ chức;
+    • Không được đánh dấu hoặc thay đổi dưới bất kỳ hình thức nào.
+
+5.2.1 Thẻ không hợp lệ
+Thẻ phải ở trạng thái giống như khi lấy được từ sản phẩm Pokémon TCG ban đầu. Một lượng hao mòn nhất định có thể chấp nhận được. Tuy nhiên, các loại bài sau có thể không được chơi tại Giải đấu Pokémon:
+    • Thẻ được đánh dấu;
+                 o Một thẻ được coi là được đánh dấu nếu một số cạnh của thẻ có thể giúp nhận dạng nó mà không cần nhìn thấy mặt của nó, bao gồm các vết trầy xước, vết rách, đổi màu, uốn cong, v.v.
+    • Thẻ đã trải qua quá trình chỉnh sửa sau sản xuất;
+                 o Ví dụ về các thay đổi bao gồm chữ ký, tác phẩm nghệ thuật hoặc các sửa đổi khác đối với bề mặt thẻ, không bao gồm bất kỳ tem chính thức nào do TPCi áp dụng.
+
+5.2.2 Bọc thẻ
+Bọc thẻ phải đáp ứng các tiêu chí giống như bản thân thẻ liên quan đến dấu hiệu và độ mòn. Ngoài ra, để được phép tham gia giải đấu một cách hợp pháp, tất cả các lá bài trong bộ bài của mỗi người chơi phải:
+    • Đính kèm toàn bộ một thẻ;
+    • Có cùng màu sắc/kiểu dáng, tình trạng, kích thước và kết cấu;
+    • Yêu cầu tất cả các cạnh phải có một màu đồng nhất (nghĩa là art không được kéo dài đến tận mép của bọc);
+    • Là một màu đơn sắc hoặc một thiết kế Pokémon được cấp phép chính thức;
+    • Không phản chiếu đến mức các mặt của thẻ có thể được xác định rõ ràng khi nhìn vào bề mặt của chúng.
+Người chơi có thể sử dụng bọc bên trong hoặc bọc bên ngoài với điều kiện là vẫn đáp ứng các tiêu chí trên và điều này không ảnh hưởng đến khả năng xáo bài của người chơi.
+
+5.2.3 Ngôn ngữ hợp lệ
+Pokémon đặc biệt khuyến nghị sử dụng bọc có mặt sau mờ đục. Việc sử dụng bao trong suốt hoặc hoàn toàn không sử dụng bao ngoài có thể làm lộ ra những điểm không hoàn hảo ở mặt sau của thẻ.
+Thẻ trò chơi Pokémon Trading Card có sẵn trên khắp thế giới bằng nhiều ngôn ngữ khác nhau.
+Để giảm bớt sự phức tạp về mặt ngôn ngữ của các tương tác trong giải đấu, Trò chơi có tổ chức Pokémon giới hạn ngôn ngữ nào được phép chơi tại các Sự kiện Premier theo khu vực xếp hạng nơi Sự kiện Premier đó được tổ chức.
+Đối với tất cả các giải đấu và phiên Liên đoàn khác, quyết định về ngôn ngữ nào được phép thi đấu là tùy theo quyết định của Ban tổ chức hoặc nhân viên Liên đoàn.
+
+5.2.3.1 Ngôn ngữ hợp lệ cho các sự kiện Premier, theo vùng xếp hạng
+                      Vùng xếp hạng                                                       Ngôn ngữ hợp lệ 
+                         Bắc Mỹ                                                             Tiếng Anh
+                       Mỹ La-tinh                                                Tiếng Anh, Tiếng Tây Ban Nha
+                         Châu Âu                           Tiếng Anh, tiếng Pháp, tiếng Đức, tiếng Ý, tiếng Bồ Đào Nha, tiếng Tây Ban Nha
+                     Châu Đại Dương                                                         Tiếng Anh
+                          Nga                                                         Tiếng Anh, Tiếng Nga
+                        Nam Phi                                                              Tiếng Anh
+
+5.2.3.2 Ngôn ngữ hợp lệ bổ sung cho các sự kiện Premier, theo quốc gia
+                        Quốc gia                                                      Ngôn ngữ hợp lệ bổ sung
+                         Canada                                                            tiếng Pháp
+           Argentina, Brazil, Chile, Colombia,                                             tiếng Bồ Đào Nha
+           Ecuador, Panama, Paraguay, Peru
+                        Indonesia                                                          tiếng Indonesia
+                        Thái Lan                                                              tiếng Thái
+                        Nhật Bản                                                              tiếng Nhật
+                        Hàn Quốc                                                            tiếng Hàn Quốc
+
+5.2.3.3 Ngoại lệ
+Đối với Giải vô địch thế giới Pokémon TCG, Giải vô địch quốc tế và các sự kiện phụ ở một trong hai giải này, bất kể chúng được tổ chức ở quốc gia nào, người chơi luôn được phép sử dụng các lá bài tiếng Anh cũng như các lá bài bằng bất kỳ ngôn ngữ nào hợp pháp tại quốc gia của người chơi.
+Trong những trường hợp đặc biệt, Trọng tài chính hoặc Người tổ chức của bất kỳ giải đấu nào cũng có thể chọn đưa ra ngoại lệ đối với các quy định liên quan đến ngôn ngữ pháp lý. Đây là quyết định riêng của họ và chỉ nên được xem xét khi không gây tổn hại đến hoạt động của giải đấu khi làm như vậy.
+Người chơi tin rằng hoàn cảnh cá nhân của họ sẽ gây khó khăn cho họ trong việc tuân thủ đầy đủ các quy tắc liên quan đến ngôn ngữ thẻ hợp pháp nên cố gắng liên hệ với Ban tổ chức sự kiện trước khi sự kiện diễn ra.
+
+5.2.4 Proxies
+Nếu một lá bài bị hư hỏng trong một giải đấu theo cách khiến lá bài đó bị đánh dấu, trọng tài có thể tạo 1 proxy cho lá bài đó để đóng vai trò là lá bài bị hư hỏng trong mọi trường hợp trong thời gian còn lại của giải đấu.
+Ngoài ra, nếu người chơi có sẵn một bản sao khác của thẻ đó để sử dụng, người chơi có thể chỉ cần thay thế thẻ bị hỏng bằng một bản sao không bị hư hại.
+Trong một số trường hợp, thẻ bị hỏng do lỗi sản xuất. Người chơi nên cố gắng hết sức để tránh chơi với những lá bài này, mặc dù đôi khi điều đó là không thể. Nếu Trưởng trọng tài cảm thấy rằng điều này tạo ra tình huống đánh dấu quân bài, trọng tài có thể tạo một quân bài proxy để đóng vai trò là quân bài bị hư hỏng trong mọi trường hợp trong thời gian còn lại của giải đấu.
+Trong mọi trường hợp, thẻ bị hỏng phải được giữ lại để làm tài liệu tham khảo khi chơi thẻ proxy.
+Không thể sử dụng proxy tại Giải đấu Pokémon vì bất kỳ lý do nào khác và sẽ được coi như bất kỳ thẻ giả nào khác nếu bị phát hiện.
+
+5.3 Bộ bài hợp lệ
+Tất cả các Sự kiện Pokémon Premier yêu cầu người tham gia phải hoàn thành danh sách bộ bài nêu chi tiết nội dung chính xác của bộ bài mà họ muốn sử dụng trong giải đấu.
+Những danh sách bộ bài này sau đó có thể được Ban tổ chức và giám khảo sử dụng để xác minh rằng bộ bài không bị thay đổi kể từ khi bắt đầu giải đấu, vì vậy người chơi nên cẩn thận để đảm bảo tính rõ ràng và chính xác của danh sách bộ bài của mình.
+
+5.3.2 Kiểm tra bộ bài
+Việc kiểm tra bộ bài phải được thực hiện tại tất cả các Sự kiện Premier. Pokemon hy vọng rằng việc kiểm tra bộ bài sẽ được thực hiện trên ít nhất 10% số bộ bài, nhưng khuyến nghị nhân viên giải đấu cố gắng hoàn thành nhiều nhất có thể.
+Việc kiểm tra bộ bài có thể diễn ra bất kỳ lúc nào trong suốt giải đấu, từ khi đăng ký cho đến vòng chung kết.
+Mặc dù người chơi có thể được yêu cầu sắp xếp các lá bài trong bộ bài của mình theo thứ tự giống như các lá bài trong danh sách bộ bài của họ, nhưng họ không nên giả định điều này và phải luôn chờ chỉ dẫn từ nhân viên giải đấu trước khi sắp xếp lại bộ bài của mình.
+Trong quá trình kiểm tra bộ bài, nhân viên giải đấu sẽ kiểm tra những điều sau:
+    • Danh sách đầy đủ và dễ đọc;
+    • Bộ bài được mô tả là hợp pháp để chơi trong giải đấu;
+    • Nội dung của bộ bài khớp chính xác với danh sách;
+    • Thẻ và bọc không có các đặc điểm có thể khiến chúng bị phân loại là có đánh dấu.
+
+5.4 Thể thức giải Constructed
+Các quy tắc xây dựng bộ bài cho các dạng Xây dựng như sau:
+    • Bộ bài phải có đúng 60 lá bài.
+    • Bộ bài không được chứa nhiều hơn 4 bản sao của một lá bài, theo quy định của tiếng Anh của lá bài dịch ngôn ngữ, ngoại trừ thẻ Năng lượng cơ bản.
+    • Các trận đấu được diễn ra với 6 prize card (prize cards).
+Pokémon cho phép sử dụng ba định dạng Xây dựng cho các giải đấu được phê duyệt, tất cả đều được trình bày chi tiết bên dưới.
+
+5.4.1 Standard format và Expanded Format
+5.4.1.1 Bộ mở rộng hợp lệ
+-------------------------------------------------------------------------------
+                               Legal Regulation Mark
+-------------------------------------------------------------------------------
+Legality Date              Regulation Mark           Standard         Expanded
+-------------------------------------------------------------------------------
+September 10, 2021                D                     ✔
+September 10, 2021                E                     ✔                 ✔
+March 12, 2022                    F                     ✔                 ✔
+April 14, 2023                    G                     ✔                 ✔
+-------------------------------------------------------------------------------
+                     Expanded Format Black & White Expansions
+-------------------------------------------------------------------------------
+Legality Date                 Set Name               Standard         Expanded
+-------------------------------------------------------------------------------
+                    Black & White                                         ✔
+                    Black & White—Emerging Powers                         ✔
+                    Black & White—Noble Victories                         ✔
+                    Black & White—Next Destinies                          ✔
+                    Black & White—Dark Explorers                          ✔
+                    Dragon Vault                                          ✔
+                    Black & White—Dragons Exalted                         ✔
+                    Black & White—Boundaries Crossed                      ✔
+                    Black & White—Plasma Storm                            ✔
+                    Black & White—Plasma Freeze                           ✔
+                    Black & White—Plasma Blast                            ✔
+                    Black & White—Legendary Treasures                     ✔
+-------------------------------------------------------------------------------
+                           Expanded Format XY Expansions
+-------------------------------------------------------------------------------
+Legality Date                 Set Name               Standard         Expanded
+-------------------------------------------------------------------------------
+                    XY—Kalos Starter Set                                  ✔
+                    XY                                                    ✔
+                    XY—Flashfire                                          ✔
+                    XY—Furious Fists                                      ✔
+                    XY—Phantom Forces                                     ✔
+                    XY—Primal Clash                                       ✔
+                    Double Crisis                                         ✔
+                    XY—Roaring Skies                                      ✔
+                    XY—Ancient Origins                                    ✔
+                    XY—BREAKthrough                                       ✔
+                    XY—BREAKpoint                                         ✔
+                    Generations                                           ✔
+                    XY—Fates Collide                                      ✔
+                    XY—Steam Siege                                        ✔
+                    XY—Evolutions                                         ✔
+-------------------------------------------------------------------------------
+                    Expanded Format Sun & Moon Expansions
+-------------------------------------------------------------------------------
+Legality Date                 Set Name               Standard         Expanded
+-------------------------------------------------------------------------------
+                    Sun & Moon                                            ✔
+                    Sun & Moon—Guardians Rising                           ✔
+                    Sun & Moon—Burning Shadows                            ✔
+                    Shining Legends                                       ✔
+                    Sun & Moon—Crimson Invasion                           ✔
+                    Sun & Moon—Ultra Prism                                ✔
+                    Sun & Moon—Forbidden Light                            ✔
+                    Sun & Moon—Celestial Storm                            ✔
+                    Sun & Moon—Lost Thunder                               ✔
+                    Sun & Moon—Team Up                                    ✔
+                    Dragon Majesty                                        ✔
+                    Sun & Moon—Unbroken Bonds                             ✔
+                    Sun & Moon—Unified Minds                              ✔
+                    Hidden Fates                                          ✔
+                    Sun & Moon—Cosmic Eclipse                             ✔
+-------------------------------------------------------------------------------
+                            Additional Releases
+-------------------------------------------------------------------------------
+Product Name                                           Standard       Expanded
+McDonald’s Collection 2011–2021                                           ✔
+Black & White Trainer Kit                                                 ✔
+XY Trainer Kit                                                            ✔
+XY Trainer Kit—Bisharp and Wigglytuff                                     ✔
+XY Trainer Kit—Latias and Latios                                          ✔
+XY Trainer Kit—Pikachu Libre and Suicune                                  ✔
+Sun & Moon Trainer Kit—Lycanroc & Alolan Raichu                           ✔
+Sun & Moon Trainer Kit—Alolan Sandslash & Alolan Ninetales                ✔
+Detective Pikachu                                                         ✔
+-------------------------------------------------------------------------------
+                          “Black Star” Promo Cards
+-------------------------------------------------------------------------------
+Prefix               Numbered                          Standard       Expanded
+BW                01 and higher                                           ✔
+XY                01 and higher                                           ✔
+SM               158 and higher                                           ✔
+
+5.4.1.2 Lịch phát hành và tính hợp pháp
+Các bản mở rộng dự kiến sẽ được phát hành theo lịch trình đều đặn, trung bình có bốn bản mở rộng mới mỗi năm dương lịch. Thẻ từ mỗi bản mở rộng mới sẽ trở thành hợp pháp vào thứ Sáu thứ hai sau ngày phát hành bản mở rộng đó tại thị trường Hoa Kỳ.
+Các thẻ khuyến mãi như những thẻ được tìm thấy trong Hộp và Bộ sưu tập Pokémon TCG sẽ hợp pháp vào thứ Sáu đầu tiên hoặc thứ ba sau ngày phát hành bản mở rộng tại thị trường Hoa Kỳ. Ngày hợp pháp của giải đấu này nhất quán trên toàn thế giới và có thể được xác nhận bằng cách truy cập trang Trạng thái hợp pháp của Thẻ khuyến mãi Pokémon TCG, được cập nhật hàng tháng.
+
+5.4.1.3 Thẻ được in lại ở định dạng tiêu chuẩn và mở rộng
+Các thẻ đã tồn tại trước đây ở định dạng này đôi khi được in lại trong các bản mở rộng mới hơn. Trong những trường hợp này, phiên bản cũ hơn của thẻ có thể được chơi nếu:
+      • Tên thẻ mới trùng với tên thẻ cũ;
+      • Tất cả văn bản được in trên thẻ mới có chức năng giống hệt với thẻ cũ.
+Hãy xem xét các ví dụ sau khi xác định xem hai thẻ có chức năng giống hệt nhau hay không:
+    • Copycat (CES, 127) và Copycat (TRR, 83) giống nhau về chức năng. Mặc dù cách diễn đạt có bị thay đổi, hiệu ứng được mô tả vẫn không thay đổi.
+    • Rainbow Energy (CES, 151) và Rainbow Energy (TR, 17) không giống nhau về mặt chức năng, vì năng lượng trước đây “đặt [s] bộ đếm sát thương” trong khi năng lượng sau “gây 10 sát thương”—bộ đếm sát thương và sát thương là những cơ chế riêng biệt trong Pokémon TCG và không thể được tham chiếu thay thế cho nhau.
+
+5.4.1.4 Thẻ bị cấm
+Danh sách các thẻ bị cấm trong giải đấu có thể được tìm thấy ở [đây].
+https://www.pokemon.com/us/pokemon-tcg-banned-card-list/
+Kết quả giải đấu và phản hồi của cộng đồng sẽ tiếp tục được phân tích để duy trì một môi trường chơi lành mạnh. Đặc biệt, thể thức Mở rộng (Expanded Format) sẽ được giám sát chặt chẽ vì có rất nhiều thẻ và sự kết hợp tiềm năng có sẵn để sử dụng.
+
+5.4.2 Thể thức không giới hạn (Unlimited Format)
+Bộ bài  có thể chứa các thẻ từ bất kỳ bản mở rộng và thẻ quảng cáo nào của Trò chơi thẻ Pokémon đã được phát hành tại Hoa Kỳ.
+
+5.4.2.1 Lịch phát hành và tính hợp pháp
+Thẻ từ mỗi bản mở rộng mới sẽ trở thành hợp pháp vào thứ Sáu thứ hai sau ngày phát hành bản mở rộng đó tại thị trường Hoa Kỳ. Các bản mở rộng dự kiến sẽ được phát hành theo lịch trình đều đặn, trung bình có bốn bản mở rộng mới mỗi năm dương
+lịch.
+Các thẻ khuyến mãi như những thẻ được tìm thấy trong Hộp và Bộ sưu tập Pokémon TCG sẽ hợp pháp vào thứ Sáu đầu tiên hoặc thứ ba sau ngày phát hành bản mở rộng tại thị trường Hoa Kỳ. Ngày hợp pháp của giải đấu này nhất quán trên toàn thế giới và có thể được xác nhận bằng cách truy cập trang Trạng thái hợp pháp của Thẻ khuyến mãi Pokémon TCG, được cập nhật hàng tháng.
+
+5.4.2.2 Thẻ được in lại ở định dạng không giới hạn
+Vì không có hạn chế về số lượng bản mở rộng hợp pháp để chơi ở định dạng Không giới hạn, người chơi đôi khi sẽ bắt gặp các thẻ từ các bản mở rộng cũ hơn có cùng tên với các thẻ mới hơn nhưng có hiệu ứng hoàn toàn khác nhau.
+Người chơi vẫn có thể đưa các phiên bản cũ hơn của lá bài đó vào bộ bài của họ, miễn là từ ngữ của phiên bản mới nhất được sử dụng ở bất cứ nơi nào có liên quan đến lá bài đó.
+
+5.4.2.3 Thẻ bị cấm
+Hiện tại không có thẻ bị cấm ở định dạng Không giới hạn.
+
+5.5 Limited Tournament Formats
+Các quy tắc xây dựng bộ bài cho các dạng Xây dựng như sau:
+     • Bộ bài phải có đúng 40 lá bài.
+     • Không có giới hạn về số lượng thẻ có cùng tên có thể đưa vào, miễn là không có hạn chế nào được nêu chi tiết trong nội dung thẻ.
+     • Các trận đấu được diễn ra với 4 prize card.
+Chơi! Pokémon cho phép sử dụng ba thể thức Giới hạn cho các giải đấu được phê duyệt, tất cả đều được trình bày chi tiết bên dưới.
+
+5.5.1 Sealed
+Trong sự kiện Sealed, người chơi sẽ nhận được Hộp Build and Battle hoặc một số pack được xác định trước (thường từ bốn đến sáu) từ Ban tổ chức khi bắt đầu sự kiện.
+
+5.5.1.1 Kết cấu bộ bài
+Người chơi mở pack của họ theo tín hiệu từ Người tổ chức và xây dựng bộ bài 40 lá chỉ bằng cách sử dụng những thẻ đó (bao gồm mọi thẻ trong hộp Build and Battle của họ) và bất kỳ thẻ Năng lượng cơ bản nào do Ban tổ chức cung cấp.
+Người chơi có 30 phút để xây dựng bộ bài của mình.
+
+5.5.2 Booster Draft
+Trong sự kiện Booster Draft, người chơi sẽ nhận được pack từ Ban tổ chức khi bắt đầu sự kiện (khuyến nghị bốn đến sáu pack cho mỗi người chơi). Người chơi chia thành các nhóm có số lượng bằng nhau, mỗi nhóm không quá 8 người và ngồi thành vòng tròn.
+
+5.5.2.1 Quy trình soạn thảo
+Theo tín hiệu của Ban tổ chức, mỗi người chơi sẽ mở một pack mà không tiết lộ nội dung của nó cho những người chơi khác. Sau đó, mỗi người chơi chọn một thẻ từ pack của họ và đặt nó úp xuống trước mặt họ.
+Khi một lá bài đã được đặt vào ngăn xếp của người chơi, nó được coi là đã chọn và không thể trả lại gói để đổi lấy một lá bài khác. Sau đó, người chơi chuyển những lá bài còn lại, úp mặt xuống, cho người bên trái của họ. Các lá bài được mỗi người chơi lựa chọn phải được giữ kín trong quá trình soạn thảo quá trình.
+Mỗi người chơi tiếp tục chọn một lá bài trong số các lá bài được giao cho họ cho đến khi tất cả các lá bài đã được chọn. Quá trình này lặp lại cho mỗi pack còn lại, với mô hình chuyền luân phiên từ trái sang phải khi mỗi gói mới được mở.
+
+5.5.2.2 Kết cấu bộ bài
+Sau khi tất cả các pack đã được mở và tất cả các thẻ đã được chọn, mỗi người chơi sẽ xây dựng một bộ bài gồm 40 lá bài, chỉ sử dụng những thẻ họ đã chọn và bất kỳ thẻ Năng lượng cơ bản nào do Ban tổ chức cung cấp.
+Người chơi có 30 phút để xây dựng bộ bài của mình.
+
+5.5.3 Build and Battle Draft
+Trong sự kiện Build and Battle Draft, mỗi người chơi sẽ nhận được Hộp build and battle từ Ban tổ chức khi bắt đầu sự kiện. Người chơi chia thành nhóm 4 người và ngồi thành vòng tròn.
+Theo tín hiệu từ Ban tổ chức, mỗi người chơi sẽ mở gói 23 lá bài của mình trước mà không tiết lộ nội dung của nó cho những người chơi khác. Người chơi có thể dành vài phút để xem qua những lá bài này, những lá bài này có thể được sử dụng để xây dựng bộ bài của họ ở phần cuối. Khi hoàn thành, người chơi sẽ đặt những thẻ này trở lại Hộp Build and Battle của mình.
+
+5.5.3.1 Quá trình tạo bộ bài
+Khi mọi người đã sẵn sàng, Ban tổ chức sẽ ra hiệu cho các tuyển thủ bắt đầu soạn bài. Mỗi người chơi mở một pack mà không tiết lộ nội dung của nó cho những người chơi khác. Sau đó, mỗi người chơi chọn một thẻ từ pack của họ và đặt nó vào hộp của họ, cùng với thẻ mã Pokémon TCG Online và thẻ Năng lượng cơ bản.
+Khi một lá bài đã được đặt vào hộp của người chơi, nó được coi là đã chọn và không thể trả lại gói để đổi lấy một lá bài khác. Sau đó, người chơi chuyển những lá bài còn lại, úp mặt xuống, cho người bên trái của họ. Các lá bài được mỗi người chơi lựa chọn phải được giữ kín trong quá trình soạn thảo quá trình.
+Mỗi người chơi tiếp tục chọn một lá bài trong số các lá bài được giao cho họ cho đến khi tất cả các lá bài đã được chọn.
+Sau khi tất cả các thẻ từ pack đã được lấy hết, người chơi sẽ có một phút để xem lại các thẻ mà họ có cho đến nay. Quá trình này lặp lại cho mỗi pack còn lại, với mô hình chuyền luân phiên từ trái sang phải khi mỗi gói mới được mở.
+
+5.5.3.2 Kết cấu bộ bài
+Sau khi tất cả các pack đã được mở và tất cả các thẻ đã được chọn, mỗi người chơi sẽ xây dựng một bộ bài gồm 40 lá bài, chỉ sử dụng các thẻ trong hộp của họ và bất kỳ thẻ Năng lượng cơ bản nào do Ban tổ chức cung cấp.
+Người chơi có 20 phút để xây dựng bộ bài của mình.
+Các quân bài đang chơi phải được quản lý sao cho chúng có tổ chức, gọn gàng và dễ dàng cho đối thủ và trọng tài giải thích.
+Các lá bài được đặt vào khu vực chơi từ tay mà không có tác dụng của lá bài, Khả năng hoặc hiệu ứng khác được coi là đã chơi tại thời điểm người chơi thả lá bài đó ra khỏi tay họ. Nếu người chơi không muốn đánh bài thì không nên đặt quân bài đó vào khu vực chơi.
+
+5.6 Quản lý khu vực chơi
+5.6.1 Khu vực chơi
+Các thẻ trong trò chơi nên được quản lý theo cách mà chúng được tổ chức, gọn gàng và dễ dàng cho đối thủ và các trọng tài để phiên dịch. 
+Thẻ được đặt vào khu vực chơi từ tay mà không có tác dụng của thẻ khác, Khả năng, hoặc Hiệu ứng được coi là chơi tại thời điểm người chơi giải phóng thẻ từ tay họ. Nếu một Người chơi không muốn chơi bài, họ không nên đặt nó vào khu vực chơi. Ranh giới của Khu vui chơi được xác định theo hình ảnh.
+[https://raw.githubusercontent.com/rFantic/note/main/Screenshot%202024-03-03%20214723.png?token=GHSAT0AAAAAACPBIJTK5ZQ4WSKQR27WYWHQZPER3SA]
+A: Mỗi bộ bài nên được định hướng theo hướng Bắc/Nam, với các cạnh ngắn của các lá bài hướng về phía nhau.
+người chơi. Khe hở của bọc bài phải đối mặt với đối thủ.
+B: Mỗi người chơi chỉ có thể có một đống bài bỏ, tuy nhiên một số lá bài nhất định trong đống bài bỏ có thể được xoay
+một chút để làm cho chúng rõ ràng hơn.
+C: Thẻ giải thưởng phải được đặt cách nhau sao cho cả người chơi và nhân viên giải đấu đều có thể
+xem nhanh xem mỗi người chơi còn lại bao nhiêu Thẻ Giải thưởng. Thẻ giải thưởng phải ở mặt đối diện
+bên cạnh không gian chơi từ bộ bài của người chơi đó và bỏ cọc.
+D: Giữ tất cả các thẻ Năng lượng được sắp xếp theo cùng một hướng với Pokémon đang chơi và đảm bảo mỗi thẻ đều
+thẻ được giữ hiển thị.
+E: Đảm bảo rằng các Pokémon được xếp ở vị trí đủ tách biệt với nhau và với các Pokémon đang hoạt động
+rằng rõ ràng Pokémon nào có thẻ gắn liền với chúng.
+F: Đặt các thẻ Sân vận động giữa các Pokémon đang hoạt động của cả hai người chơi để tất cả người chơi đều nhìn thấy thẻ này
+
+5.6.1.1 Lost zone
+Lost zone của người chơi phải được đặt ngay phía trên các lá bài Giải thưởng của họ và phải được xếp chồng lên nhau gọn gàng để đảm bảo rằng nó không ảnh hưởng đến bất kỳ lá bài nào khác đang chơi.
+
+5.6.2 Dụng cụ ngẫu nhiên
+Người chơi được phép sử dụng hai loại ngẫu nhiên trong trận đấu Pokémon TCG: xu hoặc xúc xắc.
+Người chơi luôn được phép sử dụng công cụ ngẫu nhiên của đối thủ.
+
+5.6.2.1 Xu
+Xu có thể nhận được từ các bộ bài chủ đề được xây dựng sẵn, Bộ dụng cụ huấn luyện và các sản phẩm Pokémon TCG đặc biệt khác.
+Người chơi nên cân nhắc những điều sau khi chọn sử dụng đồng xu làm công cụ ngẫu nhiên:
+     • Khi lật, đồng xu phải được giữ ngang vai và xoay hoàn toàn ít nhất ba lần trước khi rơi xuống bàn.
+     • Đồng xu phải nằm trên bàn càng phẳng càng tốt. 
+     • Nếu cả hai người chơi không thể đồng ý về kết quả của lượt lật, trọng tài có thể được gọi để xác định liệu kết quả có chắc chắn hay không hay đồng xu phải được tung lên lần nữa.
+               o Một khi trọng tài đã ra phán quyết rằng kết quả là cuối cùng thì kết quả đó không thể được làm lại.
+     • Việc tung đồng xu ra ngoài khu vực chơi bị coi là không hợp lệ và phải tung lại.
+               o Mọi thứ bên trong tấm thảm màu xanh và trắng trong Hình A là khu vui chơi cho trò chơi của bạn.
+Bất kỳ đồng xu nào được phát hành cùng với bất kỳ sản phẩm Pokémon chính thức nào từ EX Ruby & Sapphire trở đi đều phải được coi là công bằng và khách quan.
+
+5.6.2.2 Xúc xắc
+Xúc xắc có thể được lấy từ Hộp huấn luyện viên Pokémon TCG Elite. Bất kỳ xúc xắc 6 mặt nào cũng được phép sử dụng làm ngẫu nhiên, miễn là xúc xắc là hình lập phương, trong đó mỗi mặt có cùng diện tích bề mặt.
+Người chơi nên cân nhắc những điều sau khi chọn sử dụng xúc xắc làm ngẫu nhiên:
+     • Xúc xắc dùng làm ngẫu nhiên phải trong suốt hoặc mờ.
+     • Xúc xắc phải có các góc bo tròn để đảm bảo chúng lăn trên bề mặt chơi.
+     • Xúc xắc phải có kích thước phù hợp để cả hai người có thể dễ dàng hiểu được kết quả. người chơi và trọng tài.
+               o Điều này bao gồm kích thước và chữ hoặc đánh số trên khuôn.
+     • Một mặt có thể khắc chính xác tùy chỉnh thay cho số 1 hoặc số 6 miễn là tất cả các viên xúc xắc tùy chỉnh mà người chơi đó sử dụng đều có cùng một mặt được tùy chỉnh và cả hai người chơi đều chấp thuận việc sử dụng xúc xắc.
+     • Các số hoặc pip ở các mặt đối diện của xúc sắc phải có tổng bằng 7 (tức là 1 phải đối diện 6). Mặt được khắc tùy chỉnh sử dụng số được thay thế khi xác định xem tổng các mặt đối diện có bằng 7 hay không.
+
+5.7 Xáo bài
+Bộ bài của mỗi người chơi dự kiến sẽ hoàn toàn ngẫu nhiên khi bắt đầu mỗi trò chơi và trong suốt trò chơi, tùy theo yêu cầu của hiệu ứng thẻ. Việc ngẫu nhiên hóa phải được thực hiện với sự có mặt của đối thủ của người chơi và phải được thực hiện trong một khoảng thời gian hợp lý. Cũng cần cẩn thận để đảm bảo rằng các quân bài trong bộ bài được không bị tổn hại hoặc bị lộ trong quá trình xáo trộn.
+Sau khi bộ bài được xáo trộn, nó phải được đưa cho đối thủ của người chơi để cắt một lần. Cắt bộ bài bao gồm việc tạo hai chồng bài riêng biệt bằng cách loại bỏ một phần trên cùng của bộ bài, sau đó đặt nó bên dưới phần còn lại.
+Người chơi nên cẩn thận để không làm lộ bất kỳ lá bài nào của đối thủ trong khi cắt.
+Thay vì cắt, đối thủ có thể chọn xáo bài. Việc xáo trộn này phải ngắn gọn và khi kết thúc, chủ sở hữu bộ bài có thể cắt bộ bài một lần như mô tả ở trên. Việc cắt thành nhiều hơn hai ngăn xếp được coi là xáo trộn.
+5.7.1 Can thiệp của trọng tài
+Nếu một trong hai người chơi cảm thấy rằng một trong hai bộ bài không được ngẫu nhiên hóa đủ ngay sau khi xáo trộn hoặc nếu người chơi không muốn đưa bộ bài của mình cho đối thủ để ngẫu nhiên hóa, thì phải gọi trọng tài đến để xáo trộn (các) bộ bài được đề cập. Không người chơi nào được xáo trộn hoặc cắt bài sau khi trọng tài xáo bài.
+5.7.2 Xáo bài chưa đủ
+Việc sắp xếp bộ bài không đủ ngẫu nhiên là vi phạm quy tắc và có thể bị phạt. Do đó, lợi ích của mỗi người chơi là trở nên thoải mái với kỹ thuật xáo trộn vừa nhanh chóng vừa kỹ lưỡng. 
+
+5.8 Hành động trong giải
+5.8.1 Khái niệm:
+5.8.1.1 Trận đấu
+Trận đấu Pokémon TCG bắt đầu khi thời gian dành cho trận đấu bắt đầu đếm ngược. Trận đấu kết thúc khi cả hai đấu thủ đã thống nhất được kết quả và ký tên vào phiếu thi đấu kèm theo.
+
+5.8.1.2 Trò chơi
+Trò chơi Pokémon TCG bắt đầu vào thời điểm người chơi sẽ thực hiện lượt đầu tiên được xác định.
+Trong đấu ba trận, sau khi một ván đấu kết thúc, người thua ván đó sẽ quyết định ai là người đi trước trong ván tiếp theo thay vì xác định bằng cách tung đồng xu. Quyết định này được đưa ra tại cùng thời điểm trong quá trình thiết lập việc lật đồng xu sẽ diễn ra.
+Trò chơi kết thúc khi bất kỳ người chơi nào đạt được số Điều kiện thắng cần thiết để tuyên bố người chiến thắng.
+Trong trận đấu hay nhất trong ba trận đấu, một trò chơi cũng có thể kết thúc: 
+• Nếu bất kỳ người chơi đơn lẻ nào thua hai trận đấu. Trong kịch bản này, đối thủ của họ sẽ được tuyên bố là Chiến thắng. 
+• Nếu mỗi người chơi đã thua một trận đấu và sau đó nhận hình phạt Game Loss đồng thời:
+    o Ở thể thức/vòng đấu Swiss, trận đấu này sẽ được ghi nhận là hòa. 
+    o Trong loại trừ đơn hoặc trong một trận đấu yêu cầu người chiến thắng, người chơi sau đó phải chơi một Tiebreaker Game để xác định người chiến thắng
+
+5.8.1.3 Turn
+Một lượt trong Pokémon TCG bắt đầu khi người chơi đang hoạt động rút một lá bài vào tay họ làm hành động đầu tiên. Lượt chơi kết thúc khi người chơi đang hoạt động hoàn thành một đòn tấn công hợp lệ, cho biết đối thủ của họ có thể tiếp tục đến lượt tiếp theo hoặc hoàn thành bất kỳ hành động nào khác có quy định rằng lượt của người chơi đó phải kết thúc ngay sau đó (ví dụ: Steven's Resolve, CES 145).
+
+5.8.2.1 Mulligans
+Nếu một trong hai người chơi không có Pokemon basic trong ván bài mở đầu, người chơi đó phải lấy một con mulligan.
+Người chơi đối phương có thể rút một lá bài cho mỗi lần đối thủ của họ lấy thêm một lá bài. Ví dụ: nếu cả hai người chơi lấy 2 quân mulligan, sau đó Người chơi A lấy thêm 3 quân mulligan, Người chơi B có thể rút tối đa 3 quân bài.
+Những lá bài này chỉ có thể được rút khi Người chơi A đã đặt Pokémon đang hoạt động và Người chơi B phải thông báo số lượng lá bài họ sẽ rút trước khi thực hiện.
+Nếu bất kỳ lá bài nào trong số đó là Pokemon basic, chúng có thể được đặt lên Bench. Pokémon đang hoạt động phải không thay đổi.
+
+5.8.2.2 Can thiệp của trọng tài
+Trong những trường hợp cực kỳ hiếm hoi, một tình huống có thể xảy ra khi một người chơi không thể rút được Pokemon basic mặc dù đã mulligans rất nhiều —ví dụ: điều này có thể xảy ra nếu người chơi đó có số lượng Pokemon basic rất thấp trong bộ bài của họ.
+Để duy trì nhịp độ trận đấu sôi động, người đứng đầu có thể khởi xướng quy trình sau:
+Đánh giá khi bất kỳ người chơi nào đã hoàn thành 8 mulligan mà không rút được Pokemon basic:
+       1. Xáo trộn bộ bài của người chơi.
+       2. Lật top deck của người chơi cho đến khi tìm thấy Pokemon basic. Đặt Pokémon cơ bản đó sang một bên.
+       3. Xáo trộn bộ bài của người chơi một lần nữa.
+       4. Sau đó, người chơi rút 6 lá bài từ đầu bộ bài của mình. Thêm Pokémon cơ bản đã được tiết lộ trước đó để tạo ra một ván bài gồm 7 lá bài.
+       5. Cho biết trò chơi bây giờ có thể diễn ra như bình thường. Cần gia hạn thời gian cho khoảng thời gian cần thiết để hoàn thành quá trình này.
+
+5.8.3.1 Phương thức giải quyết ván chơi
+Sau khi hết thời gian, trò chơi vẫn đang diễn ra sẽ không kết thúc ngay lập tức. Thay vào đó, người chơi đang hoạt động phải hoàn thành lượt của mình. Sau đó, người chơi phải chơi thêm ba lượt đầy đủ (+3 lượt).
+Nếu thời gian được gọi giữa các lượt (trong quá trình Kiểm tra Pokémon), hiện không có người chơi nào đang hoạt động, vì vậy lượt tiếp theo sẽ là lượt một trong ba lượt.
+Tùy thuộc vào thể thức của giải đấu, mỗi trận đấu trong một trận đấu có thể cần hoặc không cần giải quyết bằng người chiến thắng được tuyên bố. Ví dụ: các giải đấu Loại trực tiếp yêu cầu mỗi trận đấu phải có người chiến thắng vì chỉ một người chơi trong mỗi trận đấu có thể tiến vào vòng tiếp theo. Tuy nhiên, các giải đấu ở Swiss không có yêu cầu như vậy và các trận đấu có thể vẫn chưa được giải quyết khi trận đấu được ghi là hòa.
+Các phương pháp thực hành sau đây được sử dụng để giúp trò chơi giải quyết khi chúng vẫn chưa hoàn thành sau khi hết thời gian, lượt +3 đã trôi qua và thể thức giải đấu yêu cầu phải công bố người chiến thắng.
+
+5.8.3.1 Trận tiebreak
+Nếu thời gian trôi qua trong một match chưa hoàn thành yêu cầu người chiến thắng hoặc nếu cả hai người chơi lấy được lá bài Giải thưởng cuối cùng của họ (hoặc hạ gục Pokémon cuối cùng của đối thủ) cùng lúc và không có điều kiện thắng nào khác được đáp ứng, người chơi phải xác định người chiến thắng trong trò chơi đó. trò chơi bằng cách tham gia vào Ván Tiebreaker.
+Người chơi nên sắp xếp như đang chơi một ván bài bình thường, bao gồm việc đặt 6 lá bài Thưởng và tung đồng xu để quyết định ai đi trước.
+Người chiến thắng trong Ván Tiebreaker là người chơi đầu tiên giành được lợi thế về Prize card so với đối thủ của họ hoặc giành chiến thắng hoàn toàn trong trò chơi bằng bất kỳ phương pháp nào khác.
+Khi hết thời gian, Ván Tiebreaker sẽ kết thúc sau +3 lượt. Nếu ván Tiebreaker chưa được giải quyết vào thời điểm này thì ván đấu (1, 2 hoặc 3 của trận đấu) vẫn chưa hoàn thành.
+
+5.8.3.2 Giải quyết một trò chơi không thể đạt được kết thúc tự nhiên
+Trong những trường hợp cực kỳ hiếm hoi, người chơi có thể gặp phải tình huống trong đó trò chơi không thể đi đến kết luận tự nhiên nếu không có sự trợ giúp từ bên ngoài—ví dụ: khi bộ bài của một trong hai người chơi không thể lấy thêm bất kỳ Prize card nào.
+Trong những trường hợp này, quy trình sau đây có thể được Trưởng ban trọng tài khởi xướng:
+     1. Thời gian trận đấu đã trôi qua, +3 lượt đã hoàn thành và Trọng tài chính phải thỏa mãn:
+                a. Rằng vòng lặp đã nhập là vô hạn và không thể phá vỡ được bởi một trong hai người chơi;
+                b. Rằng mục đích của cả hai người chơi là tránh sự thua cuộc của chính họ chứ không chỉ đơn giản là kéo dài thời gian trò chơi bằng cách không nâng cao trạng thái trò chơi;
+                c. Việc tiếp tục chơi mà không có sự nhượng bộ của một trong hai người chơi sẽ dẫn đến một trò chơi không có kết thúc.
+     2. Từ thời điểm đưa ra quyết định này, Trọng tài chính sẽ thông báo cho cả hai người chơi về quan sát của họ. Sau đó, một lượt +3 tiếp theo sẽ được chơi, với lượt hiện tại là Lượt 0.
+     3. Nếu ván đấu vẫn chưa được giải quyết sau thời điểm này, người chơi phải chơi Ván Tiebreaker để xác định người chiến thắng trong trò chơi chưa được giải quyết đó.*
+     4. Nếu Trọng tài trưởng quan sát tình huống lặp lại trong Ván đấu Tiebreaker thì trận đấu sẽ kết thúc. giải quyết như sau.
+                a. Từ thời điểm quyết định này được đưa ra, Trọng tài chính sẽ thông báo cho cả hai người chơi về quan sát của họ. Sau đó, một lượt +3 tiếp theo sẽ được chơi, với lượt hiện tại là Lượt 0.
+                b. Sau thời điểm này, tay vợt được xếp hạt giống cao nhất ở các vòng Swiss sẽ được tuyên bố là người đứng đầu. người chiến thắng trong trò chơi đó.
+ * Nếu Trọng tài chính xác định rằng vòng lặp chắc chắn sẽ tái diễn trong bất kỳ Trận đấu Tiebreaker nào đã chơi, họ nên bỏ qua bước này và chuyển ngay sang bước 4b.
+
+5.8.4.1 Điều khoản về sự chậm trễ
+Để tránh sự chậm trễ của giải đấu, người chơi phải có mặt để thi đấu kịp thời. Điều khoản về việc đi trễ đóng vai trò là yếu tố quyết định chính cho bất kỳ trận đấu nào vẫn chưa được giải quyết sau khi hết thời gian và được áp dụng cùng với bất kỳ hình phạt nào mà người chơi có thể phải chịu khi vắng mặt trong trận đấu đang diễn ra.
+Nếu một người chơi đến trận đấu muộn hoặc rời khỏi trận đấu mà không có sự cho phép của trọng tài vào bất kỳ lúc nào trong vòng đấu, người chơi đó sẽ thua trận đấu ngay sau khi hết thời gian và lượt +3 được phép đã trôi qua.
+
+5.8.4.2 Vòng đấu giải Swiss
+Những kết quả này chỉ nên được áp dụng nếu không có người chơi nào thỏa mãn Điều khoản về độ trễ.
+         Loại giải đấu: Vòng đấu Swiss                                     Loại trận đấu: Trận đấu đơn
+               Thời gian được gọi                                                Kết quả trận đấu
+                  Trong ván 1                                                           Hòa
+         Loại giải đấu: Vòng đấu Swiss                                     Loại trận đấu: Best of Three
+               Thời gian được gọi                                                Kết quả trận đấu
+                  Trong ván 1                                                           Hòa
+               Giữa ván 1 và 2                                          Người thắng ván 1 sẽ thắng trận đấu
+                  Trong ván 2                                           Người thắng ván 1 sẽ thắng trận đấu
+               Giữa ván 2 và 3                                                          Hòa
+                  Trong ván 3                                                           Hòa
+5.8.4.3 Vòng giải đấu loại trực tiếp
+Các trận đấu trong giải đấu Loại trực tiếp có thể không có kết quả hòa và do đó, các tiêu chí tiebreak bổ sung được sử dụng để xác định kết quả của trận đấu.
+Nếu không người chơi nào đáp ứng được mức tiebreak—chẳng hạn như cả hai người chơi đều có cùng số lượng
+Prize card còn lại—trò chơi phải tiếp tục cho đến khi một người chơi thỏa mãn mức tiebreak này hoặc thắng hoàn toàn trò chơi, tùy điều kiện nào xảy ra trước.
+Những kết quả này chỉ nên được áp dụng nếu không có người chơi nào thỏa mãn Điều khoản về độ trễ.
+      Loại giải đấu: Loại trực tiếp                                          Loại trận đấu: Trận đấu đơn
+           Thời gian được gọi                                                    Kết quả trận đấu
+               Trong ván 1                                       Người chơi còn lại ít Prize card nhất sẽ thắng trận đấu
+     Loại giải đấu: Loại trực tiếp                                          Loại trận đấu: Best of Three
+           Thời gian được gọi                                                    Kết quả trận đấu
+               Trong ván 1                                       Người chơi còn lại ít Prize card nhất sẽ thắng trận đấu
+             Giữa ván 1 và 2                                            Người thắng ván 1 sẽ thắng trận đấu
+               Trong ván 2                                              Người thắng ván 1 sẽ thắng trận đấu
+             Giữa ván 2 và 3                                  Người chiến thắng trong trò chơi Tiebreaker sẽ thắng trận đấu
+               Trong ván 3                                       Người chơi còn lại ít Prize card nhất sẽ thắng trận đấu
+5.8.5 Tốc độ chơi
+Nhịp độ của trận đấu Pokémon TCG phải sôi động mà không quá nhanh và mỗi người chơi sẽ nhận được khoảng một nửa thời gian quy định cho trò chơi.
+Trò chơi có tổ chức Pokémon đã đặt ra các nguyên tắc dưới đây để đánh giá xem liệu một hành động trong trò chơi có được hoàn thành trong khung thời gian hợp lý hay không.
+    • Xáo bài và sắp xếp, bắt đầu ván đấu:                                            2 phút
+    • Xáo bài và tìm kiếm bộ bài, giữa trận:                                         15 giây
+    • Thực hiện các hành động của một lá bài hoặc tấn công:                          15 giây
+    • Xem xét thế trận trước khi đánh bài:                                           10 giây
+    • Bắt đầu lượt sau khi đối thủ thông báo “kết thúc lượt” :                        5 giây
+Đây chỉ là những hướng dẫn và cần được xem xét trong bối cảnh chơi trò chơi thông thường.
+Người chơi cố gắng chia lượt của mình để sử dụng liên tục từng giây trong thời gian được phép cho những hành động này sẽ phải chịu các hình phạt liên quan đến việc trì hoãn.
+5.8.6 Thêm thời gian
+Trọng tài có thể ra quyết định gia hạn thời gian tương ứng với thời gian giải quyết bất kỳ vấn đề nào.
+Thời gian bổ sung phải được thông báo rõ ràng cho cả hai đấu thủ và được trọng tài ghi lại ngay lập tức.
+5.8.7 Viết Note
+Người chơi có thể ghi chú bằng văn bản trong một trận đấu và có thể tham khảo những ghi chú đó bất cứ lúc nào trong thời gian đó diêm. Người chơi có thể chọn không chia sẻ những ghi chú này với những người chơi khác, nhưng trọng tài có thể yêu cầu xem Ghi chú của người chơi và yêu cầu giải thích nếu cần. 
+Bảng ghi chú của người chơi phải hoàn toàn không có văn bản, viết tay hoặc bằng cách khác, ở đầu mỗi trận. 
+Người chơi phải kịp thời ghi chú và không được sử dụng thiết bị có thể gửi hoặc nhận tin nhắn như một thiết bị ghi chú. Người chơi không được tham khảo các ghi chú được thực hiện trong các vòng trước trong khi Giải đấu vẫn đang diễn ra. Ghi chú bằng văn bản được thực hiện trong một trận đấu có thể không được trao cho người khác cầu thủ trong suốt giải đấu. 
+Bởi vì một trọng tài có thể yêu cầu xem ghi chú của người chơi trong khi trận đấu đang diễn ra, việc sử dụng mã, mật mã, Viết tắt, hoặc bất kỳ phương pháp nào khác để che khuất ý nghĩa của thông tin đều không được phép. Ngoài ra, các ghi chú của người chơi không được chứa thông tin sai lệch nhằm đánh lừa  nhân viên. Nếu một trọng tài yêu cầu làm rõ, hoặc một bản dịch cho các ghi chú được viết bằng một ngôn ngữ không được nói bởi Nhân viên giải đấu, người chơi phải bắt buộc.
+
+6 Luật giải đấu với các sán phẩm khác
+Quy tắc, định dạng & nguyên tắc hình phạt trò chơi điện tử Pokémon hiện tách biệt với tài liệu này và có thể được truy cập từ trang web chính thức Pokémon.
+
+7 Vi phạm và xử phạt
+7.1 Giới thiệu
+Các giao thức và quy trình Pokémon nhằm mục đích thúc đẩy tinh thần cạnh tranh thân thiện tại tất cả Giải đấu Pokémon. Tuy nhiên, thỉnh thoảng vẫn có những tình huống phát sinh, dù vô tình hay cố ý, trong đó người tham dự không tuân thủ các quy tắc hoặc tiêu chuẩn ứng xử của giải đấu. Việc không tuân thủ các quy tắc này có thể dẫn đến việc người chơi bị phạt.
+Các hình phạt thường là những điều chỉnh được thực hiện đối với hoàn cảnh của trận đấu đang diễn ra của người chơi hoặc trận đấu sắp tới tiếp theo để bù đắp lợi thế tiềm ẩn có được hoặc sự gián đoạn gây ra do vi phạm quy tắc.
+Người chơi không được từ chối tuân theo các điều kiện của hình phạt mà đối thủ của họ đã thực hiện. Ví dụ: người chơi không được chọn nhường ván đấu cho đối thủ đã nhận hình phạt Thua ván cho ván đấu đó.
+7.2 Hình thức xử phạt
+Mặc dù cách thức nhận các hình phạt có thể khác nhau tùy theo việc người chơi đang chơi Trò chơi đánh bài hay Trò chơi điện tử nhưng định nghĩa và ứng dụng của các hình phạt này vẫn giống nhau.
+Các hình phạt dưới đây được trình bày theo thứ tự mức độ nghiêm trọng tăng dần, từ cảnh cáo bằng lời nói (Caution) cho đến loại khỏi giải đấu (Disqualification).
+Đây là những hình phạt duy nhất nên được áp dụng tại Giải đấu Pokémon—trọng tài không được áp dụng bất kỳ hình phạt nào không được liệt kê bên dưới và họ cũng không thể sửa đổi những hình phạt đó theo bất kỳ cách nào.
+7.2.1 Cảnh cáo
+Cảnh cáo là một thông báo bằng lời nói cho người chơi rằng đã xảy ra vi phạm quy tắc.
+7.2.2 Cảnh báo
+Cảnh báo bao gồm cả thông báo bằng lời nói cho người chơi rằng đã xảy ra vi phạm quy tắc và văn bản ghi lại thông báo đó.
+
+7.2.3 Double Prize Card (DPC)
+7.2.3.1 Định nghĩa
+Hình phạt Thẻ giải thưởng kép chỉ dành riêng cho Trò chơi thẻ Pokémon và được sử dụng khi xảy ra lỗi ảnh hưởng đáng kể đến trạng thái trò chơi và không có cách giải quyết vấn đề rõ ràng hoặc khi Cảnh báo được đưa ra và Hình phạt Quad Prize Card là quá khắc nghiệt.
+
+7.2.3.2 Ứng dụng
+Sau khi người chơi nhận được hình phạt Double Prize card, đối thủ của người chơi vi phạm được thông báo rằng để thắng trò chơi đó, họ phải lấy ít hơn hai Prize card so với mức cần thiết theo thể thức thông thường (tức là họ sẽ thắng trò chơi khi họ còn lại hai Prize card).
+Nếu lúc đó đối thủ chỉ còn lại một hoặc hai lá bài Giải thưởng, trò chơi sẽ kết thúc ngay lập tức và đối thủ sẽ thắng trò chơi.
+
+7.2.4 Quad Prize Card (QPC)
+7.2.4.1 Định nghĩa
+Hình phạt Quad Prize card được sử dụng khi xảy ra sai sót có ảnh hưởng nghiêm trọng đến trạng thái trò chơi và không có cách giải quyết vấn đề rõ ràng, nhưng hình phạt xử thua là quá khắc nghiệt.
+
+7.2.4.2 Ứng dụng
+Sau khi một người chơi nhận được hình phạt Quad Prize card, đối thủ của người chơi vi phạm được thông báo rằng để thắng trò chơi đó, họ phải lấy ít hơn bốn Prize card so với mức cần thiết theo thể thức thông thường (tức là họ sẽ thắng trò chơi khi họ còn bốn Prize card).
+Nếu đối thủ còn lại bốn lá bài Giải thưởng trở xuống vào thời điểm đó, trò chơi sẽ kết thúc ngay lập tức và đối thủ sẽ thắng trò chơi.
+
+7.2.5 Xử thua Game
+7.2.5.1 Định nghĩa
+Hình phạt xử thua Game thường được sử dụng khi xảy ra một lỗi có ảnh hưởng nghiêm trọng đến trạng thái trò chơi, đến mức trò chơi bị hỏng không thể sửa chữa được và không thể tiếp tục. Hình phạt này cũng được áp dụng cho các lỗi hoặc vấn đề lớn khác về thủ tục.
+
+7.2.5.2 Ứng dụng
+Khi đưa ra hình phạt xử thua trong một trò chơi đang diễn ra, trò chơi được ghi là thua đối với người chơi nhận hình phạt.
+Trong những trường hợp nghiêm trọng khi cả hai người chơi đều mắc lỗi nghiêm trọng trong trò chơi, hình phạt Thua Trận có thể được áp dụng đồng thời cho cả hai người chơi. Một trận đấu kết thúc theo cách này không phải là hòa; nó được ghi nhận là không có người chiến thắng.
+Nếu hình phạt này được thực hiện giữa các hiệp đấu, hình phạt sẽ được áp dụng cho trận đấu tiếp theo của người chơi.
+
+7.2.6 Xử thua Match
+7.2.6.1 Định nghĩa
+Hình phạt Thua trận đấu có thể được sử dụng khi Hành vi của một người chơi vi phạm không thể khắc phục làm tổn hại đến tính toàn vẹn của một trận đấu, thay vì của một trò chơi duy nhất. 
+Những trường hợp như vậy thường dẫn đến việc một người chơi không thể tham gia trận đấu nữa do đến cực kỳ khó chịu do hành vi của đối thủ.
+7.2.6.2 Ứng dụng
+Khi đưa ra hình phạt Thua trận đấu trong một trò chơi đang hoạt động, trò chơi được ghi nhận là thua cho người chơi nhận hình phạt. Nếu hình phạt này được ban hành giữa các vòng, hình phạt được áp dụng cho trận đấu tiếp theo của người chơi
+
+7.2.7 Truất quyền thi đấu
+Truất quyền thi đấu là hình phạt nghiêm trọng nhất có thể được đưa ra tại một giải đấu. Việc sử dụng nó phải được dành riêng cho những trường hợp cực đoan nhất, trong đó hành động của người chơi (dù cố ý hay vô ý) đã tác động tiêu cực và đáng kể đến tính toàn vẹn hoặc hoạt động của toàn bộ sự kiện.
+Người chơi nhận hình phạt này sẽ bị loại khỏi giải đấu và không đủ điều kiện để nhận bất kỳ giải thưởng nào.
+
+7.2.7.2 Ứng dụng (Swiss)
+Nếu một người chơi bị loại trong các vòng Swiss trong khi trận đấu của họ vẫn đang diễn ra, người chơi đó cũng sẽ nhận được một trận thua cho tất cả các trận đấu chưa hoàn thành trong trận đấu đó. Việc loại bỏ sau đó sẽ được áp dụng.
+Nếu một đấu thủ bị truất quyền thi đấu trong các vòng đấu Swiss trong khi họ không tham gia vào một trận đấu đang diễn ra, việc truất quyền thi đấu sẽ được áp dụng ngay lập tức.
+
+7.2.7.3 Ứng dụng (Loại trực tiếp)
+Trong các vòng Loại trực tiếp, người chơi bị loại cũng sẽ bị Thua trận đối với tất cả các trận đấu trong trận Loại loại đơn gần đây nhất của họ.
+Nếu một người chơi bị loại trong khi trận đấu Loại trực tiếp của họ vẫn đang diễn ra, thì số thua sẽ được áp dụng cho vòng hiện tại.
+Nếu một người chơi bị loại trong các vòng Loại trực tiếp trong khi họ không tham gia vào một trận đấu đang diễn ra, thì số thua sẽ được tính cho vòng hoàn thành gần đây nhất và đối thủ của trận đấu đó sẽ thăng tiến nếu đủ điều kiện.
+Các vi phạm thuộc danh mục Hành vi của người chơi bao gồm những vi phạm mâu thuẫn với các quy tắc tham gia giải đấu ở cấp độ cơ bản nhất.
+
+7.3 Danh mục xử phạt
+7.3.1 Lỗi xử sự (Loại A)
+Các vi phạm thuộc danh mục Hành vi của người chơi bao gồm những vi phạm mâu thuẫn với các quy tắc của tham gia giải đấu ở cấp độ cơ bản nhất.
+7.3.1.1 A.1. Lỗi thủ tục
+              Nhẹ: Cảnh cáo                 Nặng: Cảnh báo           Rất nặng: Thua game
+Các lỗi về thủ tục có tác động đến diễn biến suôn sẻ và không bị gián đoạn của giải đấu, không chỉ đối với người chơi hoặc những người chơi tham gia mà còn có thể ảnh hưởng đến nhân viên và nhóm tham gia rộng hơn.
+a. Các lỗi thủ tục nhỏ không gây ra bất kỳ sự chậm trễ hoặc bất tiện đáng kể nào cho quá trình diễn ra giải đấu và có thể được khắc phục gần như ngay lập tức.
+Ví dụ có thể bao gồm:
+       • Một người chơi vô tình đi vào khu vực “chỉ dành cho nhân viên” được chỉ định.
+       • Player rời khỏi sân thi đấu quên ký biên bản thi đấu nhưng được nhân viên gọi lại ngay.
+b. Các lỗi thủ tục lớn có khả năng gây ra sự chậm trễ cho giải đấu hoặc gây bất tiện cho những người chơi xung quanh trong khi họ được khắc phục.
+Ví dụ có thể bao gồm:
+       • Một player đến trận đấu muộn (dưới 5 phút).
+       • Người chơi không thể cung cấp các dấu hiệu Điều kiện Đặc biệt thích hợp cho tác dụng của các lá bài trong bộ bài của họ.
+       • Player quên ký biên bản thi đấu khi rời khỏi khu vực thi đấu, khiến giải đấu bị trì hoãn thủ tục tố tụng trong khi nhân viên cố gắng xác định vị trí của chúng.
+c. Những lỗi thủ tục nghiêm trọng không chỉ gây gián đoạn giải đấu mà còn có khả năng ảnh hưởng tiêu cực đến trải nghiệm của người khác.
+Ví dụ có thể bao gồm:
+       • Một player đến trận đấu muộn (hơn 5 phút).
+       • Người chơi ngồi sai bàn và đánh không đúng đối thủ.
+       • Player quên ký biên bản thi đấu khi rời khỏi khu vực thi đấu và không thể xác định được vị trí trước đó vòng tiếp theo bắt đầu.
+
+7.3.1.2 A.2. Hành vi phi thể thao
+              Nhỏ: Cảnh báo               Nặng: Thua trận          Rất nặng: Bị loại
+Vi phạm hành vi phi thể thao xảy ra khi hành vi cá nhân kém cỏi của một người tham dự giải đấu dẫn đến trải nghiệm của người khác bị giảm sút.
+a. Hành vi phi thể thao nhỏ được đặc trưng bởi những sai sót nhẹ trong phán đoán dẫn đến sự cố được ngăn chặn hoặc gây khó chịu cho một nhóm nhỏ người tham dự.
+Ví dụ có thể bao gồm:
+       • Người chơi chửi thề một cách nhẹ nhàng khi khó chịu hoặc khi trò chuyện với bạn bè.
+       • Một người chơi làm phiền trận đấu đang diễn ra.
+       • Người chơi để lại giấy gói thực phẩm hoặc các mảnh vụn khác trong khu vực chơi sau khi trận đấu của họ kết thúc.
+b. Hành vi phi thể thao nghiêm trọng được đặc trưng bởi hành vi thể hiện sự thiếu tôn trọng hoặc xem xét để chơi công bằng hoặc vì sự thích thú của những người khác tham dự.
+Ví dụ có thể bao gồm:
+       • Người chơi cố gắng đánh lạc hướng hoặc đe dọa đối thủ của họ để chơi sai.
+       • Từ chối hợp tác theo chính sách của giải đấu, chẳng hạn như ký phiếu thi đấu.
+       • Trong trận đấu, người chơi thực hiện các lượt chơi hợp pháp, không ảnh hưởng đến trận đấu đang diễn ra hoặc chơi chậm một cách vô lý nhằm thao túng thời gian còn lại trong trận đấu đó (TCG).
+       • Cố gắng xem màn hình của đối thủ để giành lợi thế (nhìn trộm màn hình) (VG).
+c. Hành vi phi thể thao nghiêm trọng thể hiện sự coi thường trắng trợn đối với Tiêu chuẩn Pokémon về Ứng xử và góp phần tích cực vào việc phá vỡ môi trường an toàn và thân thiện.
+Ví dụ có thể bao gồm:
+       • Sử dụng ngôn từ tục tĩu, gièm pha, đe dọa thể xác hoặc lăng mạ bất kỳ người tham dự nào khác.
+       • Hành hung, trộm cắp hoặc hoạt động tội phạm khác.
+       • Cố tình nói dối nhân viên giải đấu, chẳng hạn như trong quá trình điều tra.
+       • Xác định kết quả của trận đấu một cách ngẫu nhiên, thông qua việc sử dụng hối lộ hoặc ép buộc, hoặc thông qua các phương pháp không được phép khác.
+
+7.3.1.3 A.3. Gian lận
+                                                                    Rất nặng: Bị loại
+Đơn giản là không có chỗ trong Pokémon dành cho những người chọn cách gian lận để giành lợi thế trước đối thủ. Vì vậy, tất cả các trường hợp gian lận đều bị coi là nghiêm trọng và bị loại.
+Ví dụ có thể bao gồm:
+       • Cố ý rút thêm bài, hoặc lấy bài từ chồng bài bỏ và thêm vào bộ bài hoặc bài (TCG).
+       • Tự ý điều chỉnh các Điều kiện đặc biệt hoặc bộ đếm sát thương trên Pokémon đang chơi (TCG).
+       • Xếp chồng hoặc cố tình sắp xếp ngẫu nhiên bộ bài không đủ để tạo ra khả năng tiếp cận thẻ tốt hơn hoặc thẻ (TCG).
+       • Sử dụng bảng điều khiển trò chơi có chương trình cơ sở tùy chỉnh (VG).
+
+7.3.2 Lỗi Game TCG (Loại B)
+7.3.2.1 B.1. Lỗi trò chơi
+              Nhẹ: Cảnh báo                  Nặng: Double Prize Card                     Rất nặng: Thua game
+Người ta gọi như vậy là lỗi trong trò chơi TCG vì chúng là những vi phạm được thực hiện trong bối cảnh trò chơi đang diễn ra. Chúng thường xảy ra do cơ chế trò chơi bị bỏ sót hoặc thực hiện không tốt.
+a. Các lỗi nhỏ trong lối chơi ít hoặc không ảnh hưởng đến tiến trình của trò chơi và có thể được sửa hoặc tua lại hoàn toàn với ít nỗ lực. Nhiều lỗi thực sự mắc phải trong trận đấu TCG bắt đầu từ một lỗi nhỏ trong lối chơi và có thể được phân loại lại thành lỗi nghiêm trọng nếu chúng không được phát hiện và khắc phục ngay lập tức.
+Ví dụ có thể bao gồm:
+       • Đưa một lá bài vào tay mà không để lộ cho đối thủ, khi một hiệu ứng chỉ định bạn phải làm như vậy.
+       • Tuyên bố tấn công mà không có Năng lượng cần thiết kèm theo.
+       • Không thiết lập Thẻ thưởng khi bắt đầu trò chơi.
+b. Các lỗi chính trong lối chơi dẫn đến một số nhầm lẫn không thể sửa chữa được đối với trạng thái trò chơi mà không thể hoàn nguyên lại hoàn toàn hoặc bù đắp bằng hành động khắc phục. Các lỗi dẫn đến việc người chơi có được quyền truy cập bất hợp pháp vào kiến thức hoặc thẻ bài, yêu cầu trọng tài phải tham gia ở mức độ đáng kể để khắc phục hoặc không được chú ý đủ lâu để ảnh hưởng đến lối chơi có thể được phân loại là lỗi nghiêm trọng.
+Những ví dụ bao gồm:
+       • Rút thêm một lá bài.
+       • Nhận Prize card mà không Hạ gục Pokémon hoặc nhận quá nhiều Prize card sau khi Hạ gục Pokémon.
+       • Sử dụng và hoàn thành tất cả các hiệu ứng của một Khả năng khi một lá bài đang chơi ngăn cản việc sử dụng nó.
+       • Gắn nhiều thẻ Năng lượng trong một lượt mà không sử dụng hiệu ứng cho phép điều này.
+       • Không thiết lập Prize card khi bắt đầu trò chơi, dẫn đến khả năng có thêm card khi đã deck search 1-2 lần.
+c. Lỗi trò chơi nghiêm trọng dẫn đến trạng thái trò chơi bị hỏng không thể khắc phục được, đến mức trọng tài không thể được kỳ vọng một cách hợp lý là sẽ khôi phục nó đến mức có thể tiếp tục mà không ảnh hưởng đến tính toàn vẹn của trò chơi đó đến mức không thể chấp nhận được.
+ Ví dụ có thể bao gồm:
+          • Xáo bài, Bài thưởng hoặc bỏ chồng bài vào bộ bài mà không sử dụng hiệu ứng bài.
+          • Lấy hoặc cất thẻ khỏi trận đấu đang diễn ra trước khi phiếu thi đấu được ký vào cho thấy cả hai người chơi đều đồng ý về kết quả.
+          • Không thiết lập Prize card khi bắt đầu trò chơi, dẫn đến khả năng có card khi deck search >=3 lần.
+
+7.3.2.2 B.2. Tính hợp pháp của bộ bài
+                Nhẹ: Cảnh báo                                                    Rất nặng: Thua game
+Các vi phạm thuộc danh mục tính hợp pháp của bộ bài bao gồm tất cả các vấn đề được xác định do các lá bài trong bộ bài không hợp pháp để chơi trong giải đấu, vì lý do hạn chế về điều kiện, ngôn ngữ hoặc định dạng. Ngoài hình phạt được ấn định, thẻ hoặc thẻ vi phạm phải được thay thế bằng tất cả các hình thức. các trường hợp.
+Các vấn đề có thể do chính các lá bài, bọc hoặc danh sách bộ bài tương ứng gây ra. Trong các trường hợp liên quan đến phần sau, nội dung của danh sách bộ bài luôn được ưu tiên hơn nội dung của bộ bài. Do đó, bất kỳ sự khác biệt nào giữa hai bên phải luôn được khắc phục bằng cách sửa đổi bộ bài.
+Trong trường hợp danh sách bộ bài chứa ít hơn 60 lá bài, những lá bài không hợp lệ để chơi hoặc những lá bài không thể được xác định hợp lý từ thông tin được cung cấp, thì danh sách bộ bài phải được hợp pháp hóa bằng cách thêm một số lượng thẻ
+Năng lượng cơ bản thích hợp của sự lựa chọn của người chơi. Sau đó, bộ bài sẽ được cập nhật tương ứng.
+a. Các vi phạm tính hợp pháp của bộ bài nhỏ được phân loại như vậy vì chúng mang lại rất ít hoặc không có cơ hội để kết quả là người chơi sẽ đạt được lợi thế.
+Ví dụ có thể bao gồm:
+          • Bọc của người chơi có độ hao mòn tiêu chuẩn dẫn đến nhiều vết xước và dấu vết rõ rệt trên tất cả các lá bài trong bộ bài.
+          • Một số lá bài trong bộ bài của người chơi có lỗi xuất xưởng ở phía sau bao đựng. Tuy nhiên, sự kết hợp của các quân bài không tạo ra một khuôn mẫu có thể mang lại cho người chơi lợi thế đáng kể.
+          • Bộ bài có 4 bản Pikachu nhưng không ghi số sưu tầm. Tuy nhiên, chỉ có một thẻ có tên Pikachu trong bộ nên thẻ dự định vẫn có thể nhận dạng được.
+b.          Những vi phạm nghiêm trọng về tính hợp pháp của bộ bài tạo cơ hội cho người chơi đạt được lợi thế, thường là do sự mơ hồ hoặc khác biệt gây ra bởi sự khác biệt giữa danh sách bộ bài và bộ bài hoặc do mẫu thẻ được đánh dấu.
+Những ví dụ bao gồm:
+       • Cả danh sách bộ bài và bộ bài đều chứa nhiều hơn hoặc ít hơn 60 lá bài.
+       • Bộ bài của người chơi có ba lá bài Ultra Ball và hai lá bài Max Elixir, nhưng danh sách bộ bài có hai lá bài Ultra Ball và ba lá bài Max Elixir.
+       • Bọc trên tất cả các thẻ Năng lượng Đặc biệt trong bộ bài của người chơi dài hơn một chút so với các thẻ còn lại của tay áo.
+       • Cả danh sách bộ bài và bộ bài đều chứa năm bản sao của Năng lượng Không màu Đôi, vi phạm quy tắc giới hạn bốn lá bài.
+       • Danh sách bộ bài có hai bản Electivire (Sun & Moon—Lost Thunder, 72/214), nhưng bộ bài chứa hai bản sao của Electivire (XY—Furious Fists, 30/111).
+       • Một lá bài trong bộ bài của người chơi đã bị hỏng và tạo ra vết mòn có thể nhìn thấy ở mặt sau của bộ bài. bọc dọc theo khu vực bị hư hỏng, cho phép dễ dàng nhận dạng thẻ khi úp thẻ xuống.
+
+7.3.3 Lỗi Video game (Loại C)
+7.3.3.1 C.1. Lỗi trò chơi
+              Nhẹ: Cảnh báo                                                       Rất nặng: Thua game
+Lỗi trò chơi VG là những vi phạm được thực hiện trong khi trò chơi đang diễn ra. Những vi phạm này thường xảy ra nhất do người chơi xử lý hệ thống trò chơi của họ (hoặc thiết bị khác) không đúng cách khi chơi một trò chơi. trò chơi.
+a. Các lỗi nhỏ trong lối chơi có ảnh hưởng ngắn hạn và có thể khắc phục được đối với diễn biến thích hợp của trò chơi.
+Những ví dụ bao gồm:
+       • Giữ hoặc di chuyển hệ thống trò chơi theo cách dẫn đến trạng thái trò chơi bị treo có thể khắc phục được (dẫn đến trong trận đấu bị trì hoãn).
+       • Trì hoãn trận đấu bắt đầu do cần nguồn sạc.
+b. Lỗi trò chơi nghiêm trọng thường dẫn đến việc trò chơi đang diễn ra bị mất không thể khắc phục được.
+Những ví dụ bao gồm:
+       • Giữ hoặc di chuyển hệ thống trò chơi theo cách dẫn đến trạng thái trò chơi bị đóng băng không thể khắc phục được (và mà một bên có thể được xác định là chịu trách nhiệm).
+       • Loại bỏ Thẻ trò chơi giữa chừng hoặc mất điện hệ thống trò chơi.
+
+7.3.3.2 C.2. Tính hợp pháp của đội
+             Nhẹ: Cảnh báo                       Nặng: Thua trận                           Rất nặng: Bị loại
+Các vi phạm thuộc danh mục Tính hợp pháp của đội bao gồm tất cả các vấn đề được tìm thấy với Đội chiến đấu của người chơi. Những vấn đề như vậy thường xảy ra do sự khác biệt giữa Pokémon hoặc vật phẩm được giữ trong Đội chiến đấu và những vật phẩm có chi tiết trong danh sách đội.
+Trong mọi trường hợp, nội dung danh sách đội luôn được ưu tiên hơn nội dung của Đội Chiến đấu. Do đó, bất kỳ sự khác biệt nào giữa hai bên phải luôn được khắc phục bằng cách sửa đổi Đội chiến đấu để loại bỏ Pokémon vi phạm hoặc vật phẩm bị giữ khỏi cuộc chơi.
+Sau đó, nếu Pokémon hoặc vật phẩm được giữ được mô tả trong danh sách đội ngay lập tức có sẵn, thì người chơi sẽ có cơ hội thêm những vật phẩm chính xác vào đội của mình. Nếu người chơi không thể tuân thủ, các ô trống trước đó do Pokémon vi phạm hoặc vật phẩm bị giữ sẽ bị bỏ trống.
+Nếu điều này dẫn đến việc người chơi còn ít hơn bốn Pokémon có thể sử dụng được trong Đội Chiến đấu của họ, thì vi phạm sẽ tăng lên.
+a. Lỗi nhỏ của nhóm là sự khác biệt giữa Pokémon hoặc vật phẩm được giữ trong người chơi.
+Battle Team và những người trong danh sách đội và điều đó không mang lại cho người chơi lợi thế tiềm tàng.
+Những ví dụ bao gồm:
+       • Đội Chiến đấu có Gastrodon Biển Tây, nhưng danh sách đội lại liệt kê “Gastrodon Biển Đông”.
+       • Pokémon không có giới tính được liệt kê là nam hoặc nữ trong danh sách đội.
+       • Một Pokémon được liệt kê không có thông tin hình thức chính xác nhưng có thông tin khác về danh sách đội làm rõ hình thức nào đang được sử dụng.
+                o Ví dụ #1: Đội Chiến đấu có Heat Rotom, nhưng danh sách đội chỉ liệt kê "Rotom" nhưng có chiêu thức dành riêng cho hình thức Overheat trên nước đi của nó.
+                o Ví dụ #2: Đội Chiến đấu có Therian Forme Landorus, nhưng danh sách đội có chỉ đơn giản là “Landorus” nhưng có Power Intimidate dành riêng cho hình thức này.
+b. Lỗi chính của nhóm là sự khác biệt giữa Pokémon hoặc vật phẩm được giữ trong người chơi.
+Battle Team và những người trong danh sách đội và điều đó mang lại cho người chơi một lợi thế tiềm năng.
+Những ví dụ bao gồm:
+     • Pokémon có thể có cả hai giới tính là nam trong Đội chiến đấu nhưng được liệt kê là nữ trên danh sách đội (hoặc ngược lại).
+     • Một Pokémon trong Đội Chiến đấu biết chiêu thức Sóng Sấm, nhưng chiêu thức đó được liệt kê là “Sấm sét” trong danh sách đội.
+     • Chỉ số của Pokémon không được liệt kê (hoặc được liệt kê không chính xác) trong danh sách đội.
+     • Một Pokémon được liệt kê mà không có thông tin hình thức chính xác và không có thông tin nào khác về đội list làm rõ biểu mẫu nào đang được sử dụng.
+                o Ví dụ #1: Đội Chiến đấu có Wash Rotom, nhưng chỉ có “Rotom” được liệt kê trên danh sách đội và nhân viên sự kiện không thể xác định hình thức chính xác bằng cách xem nước đi bộ.
+                o Ví dụ #2: Đội Chiến đấu có Therian Forme Landorus, nhưng chỉ có “Landorus” được liệt kê trong danh sách đội và trường Khả năng trong danh sách đội bị để trống hoặc danh sách “Lực lượng tuyệt đối.”
+c. Lỗi nghiêm trọng của nhóm xảy ra khi một trong hai công cụ chính thức chỉ ra rằng Pokémon đã bị xâm phạm bất hợp pháp. bị thao túng hoặc đội của người chơi có quá ít Pokémon để tiếp tục tham gia giải đấu.
+Những ví dụ bao gồm:
+     • Người chơi còn lại ít hơn bốn Pokémon có thể sử dụng được sau khi nhận hình phạt trước đó.
+     • Bất kỳ dấu hiệu nào thông qua các công cụ chính thức cho thấy Pokémon đã bị thao túng bất hợp pháp, chẳng hạn như Đội Chiến đấu của người chơi không thực hiện kiểm tra đội điện tử.
+
+7.4 Các trường hợp thay đổi so với cách xử lý thông thường
+Pokémon thừa nhận vô số yếu tố khác nhau đang diễn ra trong mỗi phán quyết riêng lẻ và yêu cầu các Giáo sư đánh giá từng tình huống dựa trên tiềm năng của chính nó để mang lại lợi thế hoặc gây nhầm lẫn cho trạng thái trò chơi. Để hỗ trợ, Chương trình Pokémon áp dụng các hướng dẫn thay vì quy tắc khi nói đến hình phạt.
+Hình phạt đối với các hành vi vi phạm chỉ mang tính khuyến nghị và có thể tăng hoặc giảm mức độ nghiêm trọng tùy theo từng trường hợp cụ thể. Điều này có thể bao gồm thời điểm phát hiện lỗi và mức độ dễ dàng thực hiện hành động tương ứng.
+7.4.1 Rút lại hình phạt
+Ví dụ, hãy xem xét hành động chơi nhầm hai lá bài Hỗ trợ trong một lượt. Trong nhiều trường hợp như vậy, có thể không thể giảm thiểu tác động đó nếu không đánh giá một hình phạt bù đắp cho bất kỳ lợi thế tiềm năng nào đạt được, như minh họa trong kịch bản dưới đây.
+--------------------------------------------------------------------------------------------------------------------------------------------
+Tình huống: Brendan sử dụng lá Lillie (UPR, 125). Sau đó ở lượt tương tự, Brendan cũng chơi Mars (UPR, 128) và rút hai lá bài.
+Anh ta cũng loại bỏ một lá bài ngẫu nhiên từ tay đối thủ. Brendan sau đó nhận ra lỗi của mình và gọi trọng tài.
+Chỉnh sửa trạng thái trò chơi: Trọng tài, Giáo sư Elm, có thể khôi phục đúng lá bài về tay đối phương, vì cả hai người chơi đều biết lá bài này. Tuy nhiên, đối thủ không thể xác minh lá bài nào trên tay Brendan là lá bài được rút do sao Hỏa. Vì vậy, Giáo sư Elm phải chọn ngẫu nhiên hai lá bài để quay trở lại bộ bài. Sau khi trạng thái trò chơi được khôi phục hết mức có thể, Mars được trả lại về tay Brendan.
+Hình phạt: Brendan nhận một hình phạt Double Prize Cards, để bù đắp lợi thế tiềm tàng có được khi có quyền truy cập vào hai lá bài mới từ bộ bài của mình và biết về một trong các lá bài trên tay đối thủ.
+Tuy nhiên, nếu hành động có thể được đảo ngược sao cho trạng thái trò chơi phản ánh trạng thái trong đó lá bài Hỗ trợ thứ hai chưa từng được chơi, thì đây có thể là cơ sở để giảm dần (giảm mức độ nghiêm trọng) hình phạt.
+--------------------------------------------------------------------------------------------------------------------------------------------
+Tình huống: Brendan sử dụng lá Lillie (UPR, 125). Sau đó trong cùng một lượt, Brendan sử dụng lá Guzma (BUS, 115) và chuyển đổi Pokémon đang hoạt động của đối thủ bằng một trong các Pokémon dự bị của họ. Sau đó anh ấy cũng tự mình làm điều tương tự. Brendan sau đó nhận ra lỗi của mình và gọi trọng tài.
+Chỉnh sửa trạng thái trò chơi: Giám khảo, Giáo sư Elm, có thể xác định Pokémon nào ở Điểm hoạt động trước khi Guzma được chơi và di chuyển chúng trở lại. Sau khi trạng thái trò chơi được khôi phục, Guzma được trả lại về tay Brendan.
+Hình phạt: Brendan nhận được Cảnh báo để nhắc nhở anh ta về yêu cầu phải theo dõi cẩn thận lối chơi của mình và ghi lại sự việc trong bản tóm tắt hình phạt của giải đấu.
+Cuối cùng, nếu hành động dẫn đến trạng thái trò chơi bị phá vỡ không thể sửa chữa được thì biện pháp thích hợp nhất có thể là tăng mức độ nghiêm trọng của hình phạt.
+--------------------------------------------------------------------------------------------------------------------------------------------
+Tình huống: Brendan sử dụng lá Lillie (UPR, 125). Sau đó trong lượt tương tự, Brendan cũng đóng vai Cynthia (UPR, 119), và xáo bài của anh ta vào bộ bài của mình. Brendan sau đó nhận ra lỗi của mình và gọi trọng tài.
+Sửa trạng thái trò chơi: Trọng tài, Giáo sư Elm, không thể xác định lá bài nào trên tay Brendan trước khi Cynthia được chơi. Không có hành động khắc phục có thể được thực hiện.
+Hình phạt được tính: Brendan thua trận. Không có hình phạt nào khác có thể giảm thiểu một cách thỏa đáng thiệt hại gây ra cho trạng thái trò chơi bằng hành động của anh ta khi đóng vai Người hỗ trợ thứ hai và xáo trộn các lá bài trên tay anh ta.
+--------------------------------------------------------------------------------------------------------------------------------------------
+Các yếu tố khác có thể ảnh hưởng đến quyết định tăng hoặc giảm mức hình phạt bao gồm thời điểm phát hiện sai sót. Ví dụ: nếu hành động chưa được hoàn thành đầy đủ thì có thể có nhiều cơ hội hơn để đảo ngược mọi tác động đã gây ra.
+
+7.4.2 Phạt lặp lại lỗi cũ
+Một trong những mục đích của hình phạt là giáo dục người chơi về sai lầm của họ và nhắc nhở họ phải cẩn thận hơn khi hoàn thành các hành động trong trò chơi và tương tác với những người khác tại các giải đấu. Tuy nhiên, nếu tái phạm, có thể tăng mức phạt cho mỗi lần vi phạm tiếp theo để củng cố thêm sự cần thiết phải tuân thủ Thể lệ giải đấu Pokémon.
+
+7.4.3 Tuổi và kinh nghiệm
+Hãy xem xét độ tuổi, kinh nghiệm và vị thế hiện tại của người chơi. Mặc dù đây không phải lúc nào cũng là những yếu tố liên quan nhưng Giáo sư nên lưu ý rằng có thể mắc sai lầm do thiếu kinh nghiệm hoặc bị đe dọa khi thi đấu trong môi trường cạnh tranh.
+Những người chơi phạm nhiều loại vi phạm trong một giải đấu thường thực sự thiếu hiểu biết. Các giải đấu cạnh tranh có thể gây khó khăn và có nhiều điều cần tìm hiểu về thủ tục, nghi thức và lối chơi công bằng. Việc cạnh tranh giải thưởng ở độ tuổi của nhiều người chơi của chúng tôi cũng có thể khiến họ căng thẳng và họ cần được trao mọi cơ hội để tìm hiểu về trò chơi và cách chơi! Hệ thống Pokemon.
+
+7.5 Thực hiện xử phạt
+Các Giáo sư Pokémon mong muốn tạo ra trải nghiệm chơi vui vẻ, an toàn và không căng thẳng cho người chơi của chúng tôi.
+Vì lý do này, việc áp dụng hình phạt cần được xử lý một cách lịch sự và kín đáo nhất có thể.
+Bất cứ khi nào một hình phạt được đánh giá và thực hiện, việc thực hiện đó phải bao gồm những điều sau:
+     • Giải thích về hành động không được phép của người chơi;
+     • Hình phạt được đánh giá sẽ tác động như thế nào đến giải đấu của người chơi;
+     • Nhắc nhở rằng người chơi có thể kháng cáo hình phạt này hoặc bất kỳ hình phạt nào khác lên Trưởng trọng tài.
+
+7.5.1 Thảo luận hình phạt
+Do tính chất của một số vi phạm, thường không thể tránh khỏi việc cộng đồng người chơi rộng hơn sẽ biết về các hình phạt được áp dụng trong một số trường hợp. Tuy nhiên, điều quan trọng là các Giáo sư Pokémon phải xử lý thông tin liên quan đến các hình phạt một cách nhạy cảm để ngăn chặn bất kỳ sự xấu hổ quá mức nào đối với những người liên quan.
+Các hình phạt được thảo luận công khai vì lý do đào tạo phải được ẩn danh đầy đủ và lịch sử hình phạt liên quan đến những người chơi cụ thể chỉ nên được chia sẻ giữa các Giáo sư khi có liên quan.
+
+7.6 Báo cáo xử phạt:
+Pokemon theo dõi lịch sử hình phạt của mỗi người chơi để phân biệt việc cố ý lặp lại các hành vi vi phạm với các hành vi vô ý xảy ra và để xác định xem liệu hành động kỷ luật có cần thiết hay không.
+Để hỗ trợ nỗ lực này, tài liệu sau phải được gửi tới Pokemon thông qua Dịch vụ hỗ trợ sau khi hoàn thành giải đấu.
+
+7.6.1 Tóm tắt hình phạt:
+Tóm tắt hình phạt giải đấu nêu chi tiết đầy đủ tất cả các hình phạt được đánh giá trong bất kỳ giải đấu nào.
+Để tạo Tóm tắt hình phạt giải đấu, phải tạo tệp bảng tính định dạng .csv với các tiêu đề bên dưới:
+----------------------------------------------------------------------------------------------------------------------------------------
+   Giải đấu             Vòng       ID Judge          ID Người chơi       Loại           Mức độ nghiêm trọng     Hình phạt   Ghi chú
+----------------------------------------------------------------------------------------------------------------------------------------
+Sau đó, một hàng mới sẽ được hoàn thành cho mỗi hình phạt được đưa ra.
+Sau khi tệp hoàn tất, tệp phải được đính kèm và gửi qua Công cụ Báo cáo Giải đấu của dịch vụ Hỗ trợ Khách hàng Pokémon. Chọn “Tóm tắt hình phạt” từ trình đơn thả xuống có liên quan thực đơn.
+
+7.6.2 Báo cáo truất quyền thi đấu
+Trong trường hợp bị loại, Trưởng ban giám khảo có trách nhiệm gửi báo cáo đầy đủ và kỹ lưỡng về vụ việc cho Pokémon có tổ chức. Báo cáo này phải trình bày chi tiết tất cả các yếu tố góp phần dẫn đến quyết định đưa ra hình phạt này, cũng như tên và số ID người chơi của tất cả các Giáo sư có mặt tại thời điểm xảy ra vụ việc.
+Báo cáo có thể được gửi ở định dạng .doc hoặc.pdf.
+Sau khi hoàn tất, tệp phải được đính kèm và gửi qua Công cụ Báo cáo Giải đấu của dịch vụ Hỗ trợ Khách hàng
+Pokémon. Chọn “Báo cáo loại” từ menu thả xuống có liên quan.
+
+7.7 Phương án kỉ luật:
+Nếu quan sát thấy một dạng vi phạm quy tắc trong nhiều giải đấu, Trò chơi có tổ chức Pokémon có thể xem xét thực hiện biện pháp kỷ luật đối với người chơi chịu trách nhiệm. Hành động như vậy có thể bao gồm việc đình chỉ chương trình.
+Trong những trường hợp này, người chơi sẽ được thông báo và tên cũng như ID người chơi của họ sẽ được cung cấp cho Ban tổ chức.
+Người chơi bị đình chỉ không được phép tham gia hoặc tham dự bất kỳ Các sự kiện Pokémon với tư cách là khán giả, người chơi hoặc giám khảo hoặc bất kỳ vai trò nào khác. Nếu một người chơi bị đình chỉ làm gián đoạn một sự kiện bằng cách cố gắng tham gia và từ chối rời đi, sự việc phải được báo cáo cho Pokémon có tổ chức. Sau đó có thể áp dụng phần mở rộng cho hệ thống treo hiện tại.
